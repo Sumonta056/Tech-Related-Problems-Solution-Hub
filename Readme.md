@@ -29,4 +29,11 @@ img
     - Mainly Use Windows Update TroubleShooter
 ```
 
+#### 🥵 Check and Repair SSD : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.))**
+```code
+    - chkdsk 
+    - chkdsk /scan      // Scan Disk Errors
+    - chkdsk /f         // Repair Disk Errors
+```
+
 
