@@ -36,4 +36,11 @@ img
     - chkdsk /f         // Repair Disk Errors
 ```
 
+#### 🫠 laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D)**
+```code
+    - Open CMD (run as administrator)
+    - powercfg/batteryreport
+    - Go to "C:\Windows\System32\battery-report.html"
+```
+
 
