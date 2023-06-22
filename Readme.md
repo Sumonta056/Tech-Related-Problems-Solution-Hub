@@ -43,4 +43,9 @@ img
     - Go to "C:\Windows\System32\battery-report.html"
 ```
 
+#### 😴 Laptop Ram Health Check and Repair : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D)**
+```code
+    - Open CMD (run as administrator)
+    - mdsched.exe
+```
 
