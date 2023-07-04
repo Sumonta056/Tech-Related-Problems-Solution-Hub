@@ -36,7 +36,12 @@ img
     - chkdsk /f         // Repair Disk Errors
 ```
 
-#### 🫠 laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D)**
+
+#### 🥵 Windows can't be Installed on drive 0 Partition 1 : **([👉Click Here](https://youtu.be/mBNYPNuIYWo))**
+
+#### 🥵 Completely Format HDD / SSD **([👉Click Here](https://youtu.be/mBNYPNuIYWo))**
+
+#### 🫠 Laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D)**
 ```code
     - Open CMD (run as administrator)
     - powercfg/batteryreport
