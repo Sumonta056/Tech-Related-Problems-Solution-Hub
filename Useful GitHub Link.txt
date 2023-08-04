@@ -1,0 +1,180 @@
+
+This list is from my personal bookmarks, hoping someone will find it useful.
+
+Miscellaneous Pages
+
+remove
+1. udemy-downloader-gui - https://github.com/FaisalUmair/udemy-downloader-gui  - A GUI tool to download courses from Udemy for personal offline use
+
+*The above repository is not being actively developed, use this fork instead - https://github.com/heliomarpm/udemy-downloader-gui
+
+2. social_mapper - https://github.com/Greenwolf/social_mapper  - A social media mapping tool that correlates social media accounts with their respective profiles
+
+3. The-Eye-Team - https://github.com/The-Eye-Team  - A collection of open-source tools and repositories for archiving, sharing and preserving data
+
+4. Windows10Debloater - https://github.com/Sycnex/Windows10Debloater  - A PowerShell script to remove pre-installed Windows 10 apps and services
+
+5. Debloat-Windows-10 - https://github.com/W4RH4WK/Debloat-Windows-10  - A PowerShell script to remove bloatware and other unnecessary services from Windows 10
+
+6. Windows-10-Sophia-Script - https://github.com/farag2/Windows-10-Sophia-Script  - A PowerShell script to automate the process of debloating and tweaking Windows 10
+
+7. stream-detector - https://github.com/rowrawer/stream-detector  - A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files.
+
+8. atom-keyboard-shortcuts - https://github.com/nwinkler/atom-keyboard-shortcuts  - A list of keyboard shortcuts for the Atom text editor
+
+9. noto-fonts - https://github.com/googlefonts/noto-fonts  - A collection of open-source fonts developed by Google
+
+10. N_m3u8DL-CLI - https://github.com/nilaoda/N_m3u8DL-CLI/releases  - A command-line tool to download m3u8 videos and convert to other formats
+
+11. aria2 - https://github.com/aria2/aria2  - A lightweight and multi-protocol download utility that supports HTTP, FTP, BitTorrent, and Metalink
+
+12. awesome-youtubers - https://github.com/JoseDeFreitas/awesome-youtubers  - A curated list of awesome YouTubers and YouTube channels
+
+13. jq - https://github.com/stedolan/jq  - A command-line JSON processor that allows for filtering and manipulation of JSON data
+
+14. Install-search-plugins - https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins#steps-to-install-search-plugins-qbittorrent-version-3110-or-more-recent  - A wiki page with instructions on how to install search plugins for qBittorrent
+
+15. warp-plus-cloudflare - https://github.com/ALIILAPRO/warp-plus-cloudflare  - A script to add unlimited data to Cloudflare's Warp VPN service
+
+16 .GoodbyeDPI - https://github.com/ValdikSS/GoodbyeDPI  - A tool for bypassing censorship and DPI (Deep Packet Inspection) by ISPs and governments
+
+17. xdm - https://github.com/subhra74/xdm  - A download manager that supports HTTP - HTTPS, and FTP downloads
+
+18. Jackett - https://github.com/Jackett/Jackett  - A proxy server that provides API support for several torrent trackers, allowing for integration with various torrent clients
+
+19. developer-roadmap - https://github.com/kamranahmedse/developer-roadmap  - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+20. PimpMyStremio - https://github.com/sungshon/PimpMyStremio  - A tool for customizing the Stremio streaming app
+
+21. mpv.net - https://github.com/stax76/mpv.net  - A modern media player based on mpv
+
+22. IMDb-Scout-Mod - https://github.com/Purfview/IMDb-Scout-Mod  - IMDb-Scout-Mod is a browser extension that enhances IMDb by adding ratings from other websites and streaming service availability to movie and TV show pages.
+
+23. bangla-fonts - https://github.com/zihaaad/bangla-fonts  - A collection of Bangla fonts.
+
+24. bypass-paywalls-clean-filters - https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters  - A collection of filters for the uBlock Origin extension that bypass paywalls on various websites.
+
+25. TrafficMonitor - https://github.com/zhongyang219/TrafficMonitor/releases/tag/V1.81  - TrafficMonitor is a lightweight system monitoring tool that displays network traffic, CPU usage, memory usage, and other system information in real-time.
+
+26. emusak-ui - https://github.com/CapitaineJSparrow/emusak-ui  - emusak-ui is a tool which allows you to download saves or mods for Nintendo Switch emulators using a compatible Emusak backend.
+
+27. bypass-paywalls-chrome-clean - https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean  - bypass-paywalls-chrome-clean is a browser extension that bypasses paywalls for various news websites.
+
+28. goldberg_emulator - https://gitlab.com/Mr_Goldberg/goldberg_emulator  - Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer apis on a LAN without steam or an internet connection.
+
+29. Easy-GPU-P - https://github.com/jamesstringerparsec/Easy-GPU-P  - A Project dedicated to making GPU Partitioning on Windows easier!
+
+30. FileConverter - https://github.com/Tichau/FileConverter  - FileConverter is a tool for converting between various file formats, including audio, video, and image formats.
+
+31. BlockTheSpot - https://github.com/mrpond/BlockTheSpot  - BlockTheSpot is a tool that blocks ads on Spotify and improves the overall user experience.
+
+32. megabasterd - https://github.com/tonikelope/megabasterd  - megabasterd is a command-line tool that allows users to download files from Mega.nz and other similar file-sharing services.
+
+33. mpv-android - https://github.com/mpv-android/mpv-android  - mpv-android is a media player for Android that supports a wide range of audio and video formats and provides advanced playback options.
+
+34. goindex-extended - https://github.com/cheems/goindex-extended  - goindex-extended is an alternative front-end for Google Drive that provides a file manager, media player, and other features.
+
+35. lively - https://github.com/rocksdanister/lively  - lively is a tool for generating live wallpapers and animated backgrounds for Windows 10.
+
+36. QuillBot-Premium-Crack - https://github.com/blueagler/QuillBot-Premium-Crack  - QuillBot-Premium-Crack is a tool for cracking the premium version of QuillBot, a popular AI-powered paraphrasing tool.
+
+37. arkenfox/user.js - https://github.com/arkenfox/user.js/wiki/4.1-Extensions  - A wiki page containing a list of recommended extensions to use with the arkenfox/user.js Firefox hardening config.
+
+38. free-programming-books - https://github.com/EbookFoundation/free-programming-books  - Freely available programming books
+
+39. libre-foundries - https://gitlab.com/raphaelbastide/libre-foundries  - A collection of open source fonts.
+
+40. BlackHole - https://github.com/Sangwan5688/BlackHole/  - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
+
+41. TwitchLeecher - https://github.com/Franiac/TwitchLeecher/releases  - A Windows application for downloading Twitch.tv VODs.
+
+42. awesome-privacy - https://github.com/pluja/awesome-privacy#file-management-and-sharing  - A curated list of privacy-respecting software and services.
+
+43. awesome - https://github.com/sindresorhus/awesome  - A curated list of awesome lists.
+
+44. nerd-fonts - https://github.com/ryanoasis/nerd-fonts  - A collection of over 30 patched fonts designed to be used with coding applications.
+
+45. LegacyGwent - https://github.com/LegacyGwent/LegacyGwent  - A fan-made recreation of the Witcher 3's  Gwent card game.
+
+46. PairDrop - https://github.com/schlagmichdoch/PairDrop  - A cross-platform app for transferring files between devices over a local network.
+
+47. snapdrop - https://github.com/RobinLinus/snapdrop  - A web-based alternative to Apple's AirDrop for sharing files between devices.
+
+48. Private-Trackers-Spreadsheet - https://github.com/HDVinnie/Private-Trackers-Spreadsheet  - A spreadsheet providing detailed information about private trackers
+
+49. AnYme - https://github.com/zunjae/anYme/  - Unofficial Android Anime App for MyAnimeList
+
+50. developer-portfolios - https://github.com/emmabostian/developer-portfolios  - A list of developer portfolios for your inspiration
+
+51. mimikatz - https://github.com/gentilkiwi/mimikatz  - A little tool to play with Windows security
+
+AI Related Pages
+
+remove
+52. GenerateMe - https://github.com/tsulej/GenerateMe  - Processing scripts used to generative glitch / art / design.
+
+53. node-chatgpt-api - https://github.com/waylaidwanderer/node-chatgpt-api  - A Node.js library for interacting with the ChatGPT language model.
+
+54. chatgpt-api - https://www.npmjs.com/package/@waylaidwanderer/chatgpt-api  - A Node.js module for interacting with the ChatGPT language model.
+
+55. ChatGPTJailbreak - https://github.com/gayolGate/gayolGate/blob/index/ChatGPTJailbreak  - A Python script for bypassing ChatGPT's API limits.
+
+56. ChatGPTJailbreak - https://raw.githubusercontent.com/gayolGate/gayolGate/index/ChatGPTJailbreak  - The raw link to the above script.
+
+57. StyleCLIP - https://github.com/orpatashnik/StyleCLIP  - StyleCLIP is a novel zero-shot text-to-image synthesis approach that generates images based on textual descriptions.
+
+58. stable-diffusion-embeddings - https://gitlab.com/16777216c/stable-diffusion-embeddings  - A repository that contains pre-trained stable diffusion embeddings for various datasets. It provides a useful starting point for training stable diffusion models on new datasets.
+
+59. ControlNet - https://github.com/lllyasviel/ControlNet  - ControlNet is a neural network structure to control diffusion models by adding extra conditions.
+
+60. sd_civitai_extension - https://github.com/civitai/sd_civitai_extension  - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI.
+
+61. sd-webui-controlnet - https://github.com/Mikubill/sd-webui-controlnet  - WebUI extension for ControlNet.
+
+62. awesome-chatgpt - https://github.com/stars/acheong08/lists/awesome-chatgpt?page=1  - A curated list of resources related to the ChatGPT language model.
+
+63. llama-dl - https://github.com/shawwn/llama-dl  - High-speed download of LLaMA, Facebook's 65B parameter GPT model.
+
+64. coding-interview-university - https://github.com/jwasham/coding-interview-university  - A comprehensive computer science curriculum for preparing for coding interviews.
+
+65. Dreambooth-Stable-Diffusion-Tweaked - https://github.com/cantrell/Dreambooth-Stable-Diffusion-Tweaked  - A fork of the Dreambooth stable diffusion algorithm that includes various improvements and optimizations.
+
+66. lora - https://github.com/cloneofsimo/lora  - A framework for developing and deploying machine learning models. It provides a simple interface for training and deploying models and supports various types of models.
+
+67. awesome-chatgpt-prompts - https://github.com/f/awesome-chatgpt-prompts  - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+68. Auto-Photoshop-StableDiffusion-Plugin - https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin  - A Photoshop plugin for applying StableDiffusion filtering to images.
+
+69. DeepFaceLab - https://github.com/iperov/DeepFaceLab  - A tool for creating deepfake videos by swapping faces in videos
+
+70. stable-diffusion-webui - https://github.com/AUTOMATIC1111/stable-diffusion-webui  - A browser interface based on Gradio library for Stable Diffusion.
+
+71. Textual Inversion - https://textual-inversion.github.io/  - Textual Inversion allows you to train a tiny part of the neural network on your own pictures, and use results when generating new ones. In this context, embedding is the name of the tiny bit of the neural network you trained.
+
+72. InvokeAI - https://github.com/invoke-ai/InvokeAI  - A Stable Diffusion Toolkit. InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
+
+73. stable-diffusion-ui - https://github.com/cmdr2/stable-diffusion-ui  - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
+
+74. stable-diffusion-klms-gui - https://github.com/mallorbc/stable-diffusion-klms-gui  - This repo dockerizes Stable Diffusion to ease the usage of the model with a gradio UI
+
+75. big-sleep - https://github.com/lucidrains/big-sleep  - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN.
+
+76.  Dreambooth - https://github.com/JoePenna/Dreambooth-Stable-Diffusion  - Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
+
+77.  civitai/civitai - https://github.com/civitai/civitai  - Civitai is a platform aimed at providing a space for individuals to share their stable diffusion models, such as textual inversions, hypernetworks, aesthetic gradients, VAEs, and other similar models used for customizing AI generations.
+
+78. tortoise-tts - https://github.com/neonbjb/tortoise-tts  - A text-to-speech program for Windows that integrates with TortoiseSVN and TortoiseGit.
+
+79. Real-Time-Voice-Cloning - https://github.com/CorentinJ/Real-Time-Voice-Cloning  - A deep learning project for cloning a voice in real time.
+
+80. faceswap - https://github.com/deepfakes/faceswap  - Another tool for creating deepfake videos by swapping faces in videos
+
+81. deepvoice3_pytorch - https://github.com/r9y9/deepvoice3_pytorch  - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
+
+82. MidJourney-Styles-and-Keywords-Reference - https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference  - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+
+83. Vicuna - https://github.com/lm-sys/FastChat  - An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality. Checkout the blog post and demo.
+
+84. text-generation-webui - https://github.com/oobabooga/text-generation-webui  - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+
+85. deep-blueberry - https://github.com/mithi/deep-blueberry  - If you've always wanted to learn about deep-learning but don't know where to start, then you might have stumbled upon the right place!

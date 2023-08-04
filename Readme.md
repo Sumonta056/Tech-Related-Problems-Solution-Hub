@@ -7,6 +7,18 @@ img
 
 </div>
 
+<div align = "center">
+
+### 👩‍💻 Moded App & Software Link 👩‍💻
+
+
+</div>
+
+#### 🎶 SpotX : Modified Spotify Client **([👉Click Here](https://github.com/amd64fox/SpotX))**
+```code
+    - Install Spotify
+    - Then install this which disable's Spotify Ad
+```
 
 
 <div align = "center">
