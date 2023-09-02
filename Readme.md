@@ -19,7 +19,7 @@ img
     - Install Spotify
     - Then install this which disable's Spotify Ad
 ```
-
+<hr>
 
 <div align = "center">
 
@@ -66,3 +66,48 @@ img
     - mdsched.exe
 ```
 
+<hr>
+
+
+<div align = "center">
+
+### 🍂 Development Problem Solutions 🍂
+
+
+</div>
+
+#### 🧠 Start Vite React Project (Running Existing Project) : **([👉Click Here](https://www.youtube.com/watch?v=vr-I2HIVmTw))**
+```code
+    npn create vite@latest
+```
+```code
+    npm install
+```
+```code
+    npm run dev
+```
+<hr>
+
+#### 🧠 Live server visual studio code not working || Error port 5500 : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
+
+- **Reinstall Live Server**
+- **Use LiveServer: Setting : Use Local IP**
+- **Live Server > Settings : Port**
+    - **Edit in Settings.json**
+        - `"liverserver.settings.port" : 0`
+
+
+<hr>
+
+
+#### 🧠 How To Run an Existing React App In VSCode : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
+```code
+    npm install
+```
+```code
+    npm start
+```
+
+<hr>
+
+#### 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
