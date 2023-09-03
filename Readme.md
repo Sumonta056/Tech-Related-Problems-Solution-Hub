@@ -1,4 +1,4 @@
-img
+
 <div align = "center">
 
 ## 😊 Tech Related Problems-Solutions Hub😊
@@ -69,7 +69,27 @@ img
 <hr>
 
 
+
+
+#### 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181))**
+
+1. **Step - 1 : Create a txt file write the following command**
+```code
+   @echo off
+
+   start https://www.facebook.com/reel/1568140050380181
+
+   start websitelink
+```
+
+2. **Step - 2 : Save the file as .bat file**
+
+
+<hr>
+
 <div align = "center">
+
+
 
 ### 🍂 Development Problem Solutions 🍂
 
@@ -111,3 +131,8 @@ img
 <hr>
 
 #### 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
+
+
+<hr>
+
+
