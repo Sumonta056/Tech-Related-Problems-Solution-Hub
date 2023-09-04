@@ -21,6 +21,18 @@
 ```
 <hr>
 
+
+#### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Enter.code-profile) )**
+
+- **⬇️ Download The file**
+- **➡️ Go to VScode >> Setting >> Profile**
+- **👆 Click on Import Profile**
+- **🤳 Select The downloaded file**
+- **😫 Wait for few seconds and Restart VScode**
+- **🥳 Successfully Imported My VSCODE Profile**
+
+<hr>
+
 <div align = "center">
 
 ### 🪟 Windows Related Issue 🪟
