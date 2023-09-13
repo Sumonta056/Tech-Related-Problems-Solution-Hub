@@ -148,3 +148,22 @@
 <hr>
 
 
+#### 🧠 react-scripts' is not recognized as an internal or external command : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
+
+- "react-scripts" is present in package.json, then just type this command
+
+```code
+    npm install
+```
+- If "react-scripts" is not present in package.json, then you probably haven't installed it. To do that, run:
+
+```code
+    npm install react-scripts --save
+```
+
+
+
+
+<hr>
+
+
