@@ -102,7 +102,14 @@
    start websitelink
 ```
 
-2. **Step - 2 : Save the file as .bat file**
+#### 🧠 Upgrade Window Powerplan (High Performance Mode) : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278))**
+
+```code
+    powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+```
+```code
+    powercfg /s SCHEME_MIN
+```
 
 <hr>
 
