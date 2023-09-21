@@ -21,6 +21,17 @@
 
 <hr>
 
+#### 🗣️ ChatGPT : Desktop Application **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install ) )**
+
+```code
+    - Download ChatGPT
+    - Then install the application
+```
+
+<hr>
+
+
+
 #### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Enter.code-profile) )**
 
 ###### 🔄️ Updated Link **([👉Click Here ](https://vscode.dev/profile/github/7b936f7c5083518e01a724fb02ca5519) )**
