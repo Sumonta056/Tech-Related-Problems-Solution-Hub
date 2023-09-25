@@ -71,6 +71,9 @@
     - Download fliqlo
     - Then install the application
 ```
+<hr>
+
+#### 🌬️ Create Virtual Windows [Windows Sandbox] **([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )**`
 
 <hr>
 
