@@ -58,9 +58,10 @@
 
 #### 😱 Copy the ON-SCREEN code from any YouTube Video, Image **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
 
+
 ```code
-    - Download ChatGPT
-    - Then install the application
+    - Click then extension and Crop your screen
+    - Then paste the code in Text Editor
 ```
 
 
