@@ -65,6 +65,8 @@
 ```
 
 
+<hr>
+
 #### 📷 Fliqlo Desktop Clock ScreenSaver **([👉Download Link](https://fliqlo.com/screensaver/) )**
 
 ```code
@@ -73,7 +75,24 @@
 ```
 <hr>
 
-#### 🌬️ Create Virtual Windows [Windows Sandbox] **([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )**`
+
+
+#### 📈 Update All Software in Windows using CMD **([👉Tutorial Link](https://www.instagram.com/reel/CyHwRhTyfmQ/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+
+```code
+    - Run as CMD as administrator
+    - Type : WINGET UPGRADE 
+    - Type : WINGET UPGRADE --ALL
+```
+<hr>
+
+#### 🌬️ Create Virtual Windows [Windows Sandbox] ([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )
+
+
+
+#### 🌌 Extend Your Image Using UnCROP AI ([👉Tutorial Link](https://www.instagram.com/reel/CvExEtmMuqR/?igshid=MzRlODBiNWFlZA%3D%3D) ) ([👉Website](https://clipdrop.co/uncrop) )
+
+
 
 <hr>
 
