@@ -30,7 +30,13 @@
 
 <hr>
 
+#### 🗣️ Download Crack Software FREE : HAXPC  **([👉 Website Link](https://haxpc.net/) )**
 
+```code
+    - Search and Download Your Desire Software
+```
+
+<hr>
 
 #### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Enter.code-profile) )**
 
