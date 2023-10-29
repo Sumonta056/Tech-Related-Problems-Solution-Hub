@@ -40,7 +40,9 @@
 
 #### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Enter.code-profile) )**
 
-###### 🔄️ Updated Link **([👉Click Here ](https://vscode.dev/profile/github/7b936f7c5083518e01a724fb02ca5519) )**
+###### 🔄️ Updated Link **([👉Click Here ](./Vs%20Code%20Backup/Vs%20Version%203.0.code-profile) )**
+
+###### 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
 
 
 - **⬇️ Download The file**
@@ -235,5 +237,42 @@
 ```code
     npm install react-scripts --save
 ```
+
+<hr>
+
+
+#### 🧠 Xaamp My SQL is not running: **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
+
+- Error Message Shows 
+
+```code
+   12:19:12 PM [mysql] Attempting to start MySQL app... 
+   12:19:12 PM [mysql] Status change detected: running 
+   12:19:13 PM [mysql] Status change detected: stopped 
+   12:19:13 PM [mysql] Error: MySQL shutdown unexpectedly. 
+   12:19:13 PM [mysql] This may be due to a blocked port, missing dependencies, 
+   12:19:13 PM [mysql] improper privileges, a crash, or a shutdown by another method 
+   12:19:13 PM [mysql] Press the Logs button to view error logs and check 
+   12:19:13 PM [mysql] the Windows Event Viewer for more clues 
+   12:19:13 PM [mysql] If you need more help, copy and post this 
+   12:19:13 PM [mysql] entire log window on the forums
+```
+
+- **Solution**
+
+```code
+    - Rename folder mysql/data to mysql/data_old
+    - Make a copy of mysql/backup folder and name it as mysql/data
+    - Copy all your database folders from mysql/data_old into mysql/data (except mysql, performance_schema, and phpmyadmin folders)
+    - Copy mysql/data_old/ibdata1 file into mysql/data folder
+    - Start MySQL from XAMPP control panel
+    - Restart Xaamp
+    - Careful with "ibdata1" file, it is very important
+```
+
+<hr>
+
+
+#### 🧠 "#1932- table doesn't exist in engine PhpMyAdmin" **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
 
 <hr>
