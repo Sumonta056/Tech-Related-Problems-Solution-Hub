@@ -21,7 +21,7 @@
 
 <hr>
 
-#### 🗣️ ChatGPT : Desktop Application **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install ) )**
+#### 🗣️ ChatGPT : Desktop Application **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install) )**
 
 ```code
     - Download ChatGPT
@@ -30,7 +30,7 @@
 
 <hr>
 
-#### 🗣️ Download Crack Software FREE : HAXPC  **([👉 Website Link](https://haxpc.net/) )**
+#### 🗣️ Download Crack Software FREE : HAXPC **([👉 Website Link](https://haxpc.net/) )**
 
 ```code
     - Search and Download Your Desire Software
@@ -43,7 +43,6 @@
 ###### 🔄️ Updated Link **([👉Click Here ](./Vs%20Code%20Backup/Vs%20Version%203.0.code-profile) )**
 
 ###### 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
-
 
 - **⬇️ Download The file**
 - **➡️ Go to VScode >> Setting >> Profile**
@@ -63,15 +62,12 @@
 
 <hr>
 
-
 #### 😱 Copy the ON-SCREEN code from any YouTube Video, Image **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
-
 
 ```code
     - Click then extension and Crop your screen
     - Then paste the code in Text Editor
 ```
-
 
 <hr>
 
@@ -81,26 +77,40 @@
     - Download fliqlo
     - Then install the application
 ```
+
 <hr>
-
-
 
 #### 📈 Update All Software in Windows using CMD **([👉Tutorial Link](https://www.instagram.com/reel/CyHwRhTyfmQ/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Run as CMD as administrator
-    - Type : WINGET UPGRADE 
+    - Type : WINGET UPGRADE
     - Type : WINGET UPGRADE --ALL
 ```
+
 <hr>
 
 #### 🌬️ Create Virtual Windows [Windows Sandbox] ([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )
 
-
-
 #### 🌌 Extend Your Image Using UnCROP AI ([👉Tutorial Link](https://www.instagram.com/reel/CvExEtmMuqR/?igshid=MzRlODBiNWFlZA%3D%3D) ) ([👉Website](https://clipdrop.co/uncrop) )
 
+<hr>
 
+#### 🫳 Google Feature Website Shortcut
+
+###### Google Docs ( [👉 doc.new](https://doc.new) )
+
+###### Google Sheets ( [👉 sheets.new](https://sheets.new) )
+
+###### Google Slides ( [👉 slides.new](https://slides.new ) )
+
+###### Google Forms ( [👉 forms.new](https://forms.new) )
+
+###### Google Keep ( [👉 keep.new](https://keep.new) )
+
+###### Google Calendar ( [👉 cal.new](https://cal.new) )
+
+###### Google Meeting ( [👉 meet.new](https://meet.new)  )
 
 <hr>
 
@@ -170,6 +180,7 @@
 ```code
     powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
+
 ```code
     powercfg /s SCHEME_MIN
 ```
@@ -240,21 +251,20 @@
 
 <hr>
 
-
 #### 🧠 Xaamp My SQL is not running: **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
 
-- Error Message Shows 
+- Error Message Shows
 
 ```code
-   12:19:12 PM [mysql] Attempting to start MySQL app... 
-   12:19:12 PM [mysql] Status change detected: running 
-   12:19:13 PM [mysql] Status change detected: stopped 
-   12:19:13 PM [mysql] Error: MySQL shutdown unexpectedly. 
-   12:19:13 PM [mysql] This may be due to a blocked port, missing dependencies, 
-   12:19:13 PM [mysql] improper privileges, a crash, or a shutdown by another method 
-   12:19:13 PM [mysql] Press the Logs button to view error logs and check 
-   12:19:13 PM [mysql] the Windows Event Viewer for more clues 
-   12:19:13 PM [mysql] If you need more help, copy and post this 
+   12:19:12 PM [mysql] Attempting to start MySQL app...
+   12:19:12 PM [mysql] Status change detected: running
+   12:19:13 PM [mysql] Status change detected: stopped
+   12:19:13 PM [mysql] Error: MySQL shutdown unexpectedly.
+   12:19:13 PM [mysql] This may be due to a blocked port, missing dependencies,
+   12:19:13 PM [mysql] improper privileges, a crash, or a shutdown by another method
+   12:19:13 PM [mysql] Press the Logs button to view error logs and check
+   12:19:13 PM [mysql] the Windows Event Viewer for more clues
+   12:19:13 PM [mysql] If you need more help, copy and post this
    12:19:13 PM [mysql] entire log window on the forums
 ```
 
@@ -271,7 +281,6 @@
 ```
 
 <hr>
-
 
 #### 🧠 "#1932- table doesn't exist in engine PhpMyAdmin" **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
 
