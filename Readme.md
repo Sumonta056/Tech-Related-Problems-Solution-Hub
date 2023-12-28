@@ -120,7 +120,7 @@
 
 </div>
 
-#### 🧠 Activate Windows 11 (Free) : **([👉Click Here](https://youtu.be/gLpVYYd-8VY))**
+#### 🧠 Activate Windows 11 (Free) : **([👉Click Here](https://youtu.be/gLpVYYd-8VY) )**
 
 ```code
     - slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
@@ -128,13 +128,13 @@
     - slmgr /ato
 ```
 
-#### 🧠 Windows 11 Not Updating Properly : **([👉Click Here](https://youtu.be/ho5RY2IwqOEY))**
+#### 🧠 Windows 11 Not Updating Properly : **([👉Click Here](https://youtu.be/ho5RY2IwqOEY) )**
 
 ```code
     - Mainly Use Windows Update TroubleShooter
 ```
 
-#### 🥵 Check and Repair SSD : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.))**
+#### 🥵 Check and Repair SSD : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.) )**
 
 ```code
     - chkdsk
@@ -142,11 +142,11 @@
     - chkdsk /f         // Repair Disk Errors
 ```
 
-#### 🥵 Windows can't be Installed on drive 0 Partition 1 : **([👉Click Here](https://youtu.be/mBNYPNuIYWo))**
+#### 🥵 Windows can't be Installed on drive 0 Partition 1 : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
-#### 🥵 Completely Format HDD / SSD **([👉Click Here](https://youtu.be/mBNYPNuIYWo))**
+#### 🥵 Completely Format HDD / SSD **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
-#### 🫠 Laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D)**
+#### 🫠 Laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -154,7 +154,7 @@
     - Go to "C:\Windows\System32\battery-report.html"
 ```
 
-#### 😴 Laptop Ram Health Check and Repair : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D)**
+#### 😴 Laptop Ram Health Check and Repair : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -163,7 +163,7 @@
 
 <hr>
 
-#### 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181))**
+#### 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
 
 1. **Step - 1 : Create a txt file write the following command**
 
@@ -175,7 +175,7 @@
    start websitelink
 ```
 
-#### 🧠 Upgrade Window Powerplan (High Performance Mode) : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278))**
+#### 🧠 Upgrade Window Powerplan (High Performance Mode) : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
 
 ```code
     powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
@@ -184,6 +184,20 @@
 ```code
     powercfg /s SCHEME_MIN
 ```
+#### 🧠 Open Bios in easy way without pressing random Key : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
+
+- Right Click on Desktop
+- Click New -> Shortcut 
+- Write the below code :
+```code
+    shutdown.exe /r /fw /t 1
+```
+- Save shortcut with Name : "BIOS"
+- Open Properties -> Advance -> Run as Adminstrator
+
+#### 🧠 Activate Window 11 Without installing anything : **([👉Click Here](https://www.instagram.com/reel/C0DhP4XrfZv/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
+
+
 
 <hr>
 
