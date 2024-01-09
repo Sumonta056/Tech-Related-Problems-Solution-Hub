@@ -38,6 +38,24 @@
 
 <hr>
 
+#### 🗣️ QuilBot Premium FREE : Extension **([👉 Website Link](https://github.com/Raguggg/quillbot-premium-for-free?tab=readme-ov-file#verification-code) )**
+
+```code
+    - Download the repository and unpack in extension developer mode
+    - Verification Code : ragu@123
+```
+
+<hr>
+
+#### 🗣️ Microsoft Activation Scripts : Windows Activator **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
+
+```code
+       - Run the following command in CMD
+    - irm https://massgrave.dev/get | iex
+```
+
+<hr>
+
 #### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Enter.code-profile) )**
 
 ###### 🔄️ Updated Link **([👉Click Here ](./Vs%20Code%20Backup/Vs%20Version%203.0.code-profile) )**
