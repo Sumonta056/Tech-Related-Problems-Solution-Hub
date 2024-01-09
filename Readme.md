@@ -50,7 +50,7 @@
 #### 🗣️ Microsoft Activation Scripts : Windows Activator **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
 
 ```code
-       - Run the following command in CMD
+    - Run the following command in CMD
     - irm https://massgrave.dev/get | iex
 ```
 
