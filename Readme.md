@@ -12,6 +12,16 @@
 
 </div>
 
+#### 🙏 ChatGPT-4 & Dall-E Free **([👉Click Here](https://chat-shared3.zhile.io/shared.html))**
+
+```code
+    - Use the golden-colored number slot only for access to GPT-4.
+    - Then, it will redirect to the ChatGPT-4 website
+    - Choose GPT-4 from Top
+```
+
+<hr>
+
 #### 🎶 SpotX : Modified Spotify Client **([👉Click Here](https://github.com/amd64fox/SpotX))**
 
 ```code
