@@ -57,6 +57,18 @@
 
 <hr>
 
+#### 🗣️ File Transfer Between Windows - Phone - Mac : Local Send **([👉 Click Here](https://www.instagram.com/reel/C22JBXzv-Sa/) ) ([👉 Download Link](https://localsend.org/#/download) )**
+
+```code
+    - Download The Software Just
+```
+
+#### 🗣️ Check Windows is Genuine or Not **([👉 Click Here](https://www.instagram.com/reel/C23YHGNyjqs/s) )**
+
+```code
+    - slmgr /xpr
+```
+
 #### 🗣️ Microsoft Activation Scripts : Windows Activator **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
 
 ```code
@@ -130,7 +142,7 @@
 
 ###### Google Sheets ( [👉 sheets.new](https://sheets.new) )
 
-###### Google Slides ( [👉 slides.new](https://slides.new ) )
+###### Google Slides ( [👉 slides.new](https://slides.new) )
 
 ###### Google Forms ( [👉 forms.new](https://forms.new) )
 
@@ -138,7 +150,7 @@
 
 ###### Google Calendar ( [👉 cal.new](https://cal.new) )
 
-###### Google Meeting ( [👉 meet.new](https://meet.new)  )
+###### Google Meeting ( [👉 meet.new](https://meet.new) )
 
 <hr>
 
@@ -212,20 +224,21 @@
 ```code
     powercfg /s SCHEME_MIN
 ```
+
 #### 🧠 Open Bios in easy way without pressing random Key : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
 
 - Right Click on Desktop
-- Click New -> Shortcut 
+- Click New -> Shortcut
 - Write the below code :
+
 ```code
     shutdown.exe /r /fw /t 1
 ```
+
 - Save shortcut with Name : "BIOS"
 - Open Properties -> Advance -> Run as Adminstrator
 
 #### 🧠 Activate Window 11 Without installing anything : **([👉Click Here](https://www.instagram.com/reel/C0DhP4XrfZv/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
-
-
 
 <hr>
 
