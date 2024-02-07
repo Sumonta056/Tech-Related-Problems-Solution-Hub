@@ -93,6 +93,10 @@
 
 <hr>
 
+#### 🫕 How To Install Fira Code font in VS Code **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
+
+<hr>
+
 #### 🎨 Make Windows Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/-G6GbXGo4wo?si=1FN3OLyvs-WDdRhz) )**
 
 - **👆 Window Terminal Themes ([👉Download File ](https://windowsterminalthemes.dev/) )**
