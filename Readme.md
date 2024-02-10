@@ -97,12 +97,28 @@
 
 <hr>
 
-#### 🎨 Make Windows Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/-G6GbXGo4wo?si=1FN3OLyvs-WDdRhz) )**
+#### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
 
-- **👆 Window Terminal Themes ([👉Download File ](https://windowsterminalthemes.dev/) )**
-- **➡️ Oh My Posh ([👉Download File ](https://ohmyposh.dev/) )**
 
-- **➡️ Nerd Fonts ([👉Download File ](https://github.com/ryanoasis/nerd-fonts/) )**
+- **➡️ Oh My Posh ([👉 Download File ](https://ohmyposh.dev/) )**
+- **➡️ Nerd Fonts ([👉 Download File ](https://www.nerdfonts.com/font-downloads) )**
+- **➡️ (Oh My Posh) Window Terminal Themes ([👉 Download File ](https://ohmyposh.dev/docs/themes#atomic) )**
+- **➡️ Window Terminal Themes ([👉 Github ](https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes) )**
+- **➡️ Windows Terminal Icons ([👉 Download File ](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) )**
+
+```
+ code $profile
+
+ "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
+```
+```
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+```
+oh-my-posh.exe init pwsh --config "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\atomic.omp.json" | Invoke-Expression
+
+Import-Module -Name Terminal-Icons
+```
 
 <hr>
 
