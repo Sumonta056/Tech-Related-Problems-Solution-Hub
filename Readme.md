@@ -97,7 +97,7 @@
 
 <hr>
 
-#### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
+#### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )** 
 
 
 - **➡️ Oh My Posh ([👉 Download File ](https://ohmyposh.dev/) )**
@@ -105,6 +105,8 @@
 - **➡️ (Oh My Posh) Window Terminal Themes ([👉 Download File ](https://ohmyposh.dev/docs/themes#atomic) )**
 - **➡️ Window Terminal Themes ([👉 Github ](https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes) )**
 - **➡️ Windows Terminal Icons ([👉 Download File ](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) )**
+
+- **➡️ Backup Folder ([👉 Click Here ](./WindowsPowerShell/) )**
 
 ```
  code $profile
@@ -119,7 +121,9 @@ oh-my-posh.exe init pwsh --config "C:\Users\sumon\OneDrive\Documents\WindowsPowe
 
 Import-Module -Name Terminal-Icons
 ```
-
+```
+"JetBrainsMonoNL Nerd Font Mono Regular", "Fira Code" 
+```
 <hr>
 
 #### 😱 Copy the ON-SCREEN code from any YouTube Video, Image **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
