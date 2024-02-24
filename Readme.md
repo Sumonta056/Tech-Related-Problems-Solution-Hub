@@ -78,9 +78,9 @@
 
 <hr>
 
-#### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](./Vs%20Code%20Backup/sumonta-vscode.code-profile) )**
+#### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Vs%20Code%20Backup/latest%20-%2024%20Feb%20-%202024.code-profile) )**
 
-###### 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/profile/github/7da275a9a390e22a5403f001364d1e7c) )**
+###### 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/editor/profile/github/18d5e08954ca8b25e66ed055169863e8) )**
 
 ###### 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
 
