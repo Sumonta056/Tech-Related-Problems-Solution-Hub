@@ -31,6 +31,14 @@
 
 <hr>
 
+#### Ⓜ️ Medium Paid Article For Free (Medium Breaker Extension) **([👉Click Here](https://chromewebstore.google.com/detail/medium-breaker/dccgbfmnbbbaeehljeepffepbdeipjpp))**
+
+```code
+    - Open a paid an article
+    - Right Click on that page
+    - Click on "Break the Article!"
+```
+
 #### 🗣️ ChatGPT : Desktop Application **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install) )**
 
 ```code
