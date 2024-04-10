@@ -372,3 +372,8 @@ Import-Module -Name Terminal-Icons
 #### 🧠 "#1932- table doesn't exist in engine PhpMyAdmin" **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
 
 <hr>
+
+
+#### 🧠 "How to fix "unknown at rule @tailwind" warning in VS Code" **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
+
+<hr>
