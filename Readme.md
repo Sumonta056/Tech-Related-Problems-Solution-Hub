@@ -233,6 +233,15 @@ Import-Module -Name Terminal-Icons
     - mdsched.exe
 ```
 
+#### 🦾 How to Delete a File in Use by Another Program : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
+
+```code
+    - Open CMD (run as administrator)
+    - Go To Folder Location 
+    - del "FileName"
+```
+
+
 <hr>
 
 #### 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
