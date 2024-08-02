@@ -105,8 +105,7 @@
 
 <hr>
 
-#### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )** 
-
+#### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
 
 - **➡️ Oh My Posh ([👉 Download File ](https://ohmyposh.dev/) )**
 - **➡️ Nerd Fonts ([👉 Download File ](https://www.nerdfonts.com/font-downloads) )**
@@ -121,17 +120,21 @@
 
  "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
 ```
+
 ```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
 ```
 oh-my-posh.exe init pwsh --config "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\atomic.omp.json" | Invoke-Expression
 
 Import-Module -Name Terminal-Icons
 ```
+
 ```
-"JetBrainsMonoNL Nerd Font Mono Regular", "Fira Code" 
+"JetBrainsMonoNL Nerd Font Mono Regular", "Fira Code"
 ```
+
 <hr>
 
 #### 😱 Copy the ON-SCREEN code from any YouTube Video, Image **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
@@ -237,10 +240,9 @@ Import-Module -Name Terminal-Icons
 
 ```code
     - Open CMD (run as administrator)
-    - Go To Folder Location 
+    - Go To Folder Location
     - del "FileName"
 ```
-
 
 <hr>
 
@@ -382,7 +384,14 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-
 #### 🧠 "How to fix "unknown at rule @tailwind" warning in VS Code" **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
+
+<hr>
+
+#### ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved **([👉Click Here : Solution](https://youtu.be/9haB3XP3FME?si=2P2GsLxrssM_LQXF))**
+
+```code
+the mysql -u root -p
+```
 
 <hr>
