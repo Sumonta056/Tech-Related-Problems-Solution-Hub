@@ -291,7 +291,7 @@ Import-Module -Name Terminal-Icons
 
 </div>
 
-#### 🧠 Start Vite React Project (Running Existing Project) : **([👉Click Here](https://www.youtube.com/watch?v=vr-I2HIVmTw))**
+>> 🧠 Start Vite React Project (Running Existing Project) : **([👉Click Here](https://www.youtube.com/watch?v=vr-I2HIVmTw))**
 
 ```code
     npn create vite@latest
@@ -307,7 +307,7 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 🧠 Live server visual studio code not working || Error port 5500 : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
+>> 🧠 Live server visual studio code not working || Error port 5500 : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
 
 - **Reinstall Live Server**
 - **Use LiveServer: Setting : Use Local IP**
@@ -317,7 +317,7 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 🧠 How To Run an Existing React App In VSCode : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
+>> 🧠 How To Run an Existing React App In VSCode : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
 
 ```code
     npm install
@@ -329,11 +329,11 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
+>> 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
 
 <hr>
 
-#### 🧠 react-scripts' is not recognized as an internal or external command : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
+>> 🧠 react-scripts' is not recognized as an internal or external command : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
 
 - "react-scripts" is present in package.json, then just type this command
 
@@ -349,7 +349,7 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 🧠 Xaamp My SQL is not running: **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
+>> 🧠 Xaamp My SQL is not running: **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
 
 - Error Message Shows
 
@@ -380,18 +380,28 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 🧠 "#1932- table doesn't exist in engine PhpMyAdmin" **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
+>> 🧠 "#1932- table doesn't exist in engine PhpMyAdmin" **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
 
 <hr>
 
-#### 🧠 "How to fix "unknown at rule @tailwind" warning in VS Code" **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
+>> 🧠 "How to fix "unknown at rule @tailwind" warning in VS Code" **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
 
 <hr>
 
-#### ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved **([👉Click Here : Solution](https://youtu.be/9haB3XP3FME?si=2P2GsLxrssM_LQXF))**
+>> ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved **([👉Click Here : Solution](https://youtu.be/9haB3XP3FME?si=2P2GsLxrssM_LQXF))**
 
 ```code
 the mysql -u root -p
 ```
+
+
+
+<hr>
+
+>> How to locate a installed software `.exe` in File Explored **([👉Click Here : Solution](https://www.reddit.com/r/whatsapp/comments/vwodk3/where_is_whatsapp_desktop_located_on_pc/))**
+
+<hr>
+
+>> Whatsapp desktop Lag **([👉Click Here : Solution](https://answers.microsoft.com/en-us/windows/forum/all/whatsapp-desktop-input-lag-when-installed-along/67a20a54-4796-478e-bc5e-8bd75e279ebf#:~:text=%2D%20Compatibility%20Mode%3A%20Try%20running%20WhatsApp,a%20different%20version%20of%20Windows.))**
 
 <hr>
