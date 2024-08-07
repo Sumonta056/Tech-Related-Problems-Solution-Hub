@@ -1,10 +1,6 @@
-<div align = "center">
-
-## 😊 Tech Related Problems-Solutions Hub😊
+# 😊 Tech Related Problems-Solutions Hub😊
 
 <img src = "back.png">
-
-</div>
 
 ## 👩‍💻 Moded App & Software Link 👩‍💻
 
