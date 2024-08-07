@@ -6,11 +6,7 @@
 
 </div>
 
-<div align = "center">
-
-### 👩‍💻 Moded App & Software Link 👩‍💻
-
-</div>
+## 👩‍💻 Moded App & Software Link 👩‍💻
 
 #### 🙏 ChatGPT-4 & Dall-E Free **([👉Click Here](https://chat-shared3.zhile.io/shared.html))**
 
@@ -88,24 +84,24 @@
 
 #### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Vs%20Code%20Backup/latest%20-%2024%20Feb%20-%202024.code-profile) )**
 
-###### 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/editor/profile/github/18d5e08954ca8b25e66ed055169863e8) )**
+>> 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/editor/profile/github/18d5e08954ca8b25e66ed055169863e8) )**
 
-###### 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
+>> 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
 
-- **⬇️ Download The file**
-- **➡️ Go to VScode >> Setting >> Profile**
-- **👆 Click on Import Profile**
-- **🤳 Select The downloaded file**
-- **😫 Wait for few seconds and Restart VScode**
-- **🥳 Successfully Imported My VSCODE Profile**
-
-<hr>
-
-#### 🫕 How To Install Fira Code font in VS Code **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
+- ⬇️ Download The file
+- ➡️ Go to VScode >> Setting >> Profile
+- 👆 Click on Import Profile
+- 🤳 Select The downloaded file
+- 😫 Wait for few seconds and Restart VScode
+- 🥳 Successfully Imported My VSCODE Profile
 
 <hr>
 
-#### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
+### 🫕 How To Install Fira Code font in VS Code **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
+
+<hr>
+
+### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
 
 - **➡️ Oh My Posh ([👉 Download File ](https://ohmyposh.dev/) )**
 - **➡️ Nerd Fonts ([👉 Download File ](https://www.nerdfonts.com/font-downloads) )**
@@ -116,9 +112,7 @@
 - **➡️ Backup Folder ([👉 Click Here ](./WindowsPowerShell/) )**
 
 ```
- code $profile
-
- "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
+ code $profile "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
 ```
 
 ```
@@ -189,13 +183,9 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-<div align = "center">
+## 🪟 Windows Related Issue 🪟
 
-### 🪟 Windows Related Issue 🪟
-
-</div>
-
-#### 🧠 Activate Windows 11 (Free) : **([👉Click Here](https://youtu.be/gLpVYYd-8VY) )**
+>> 🧠 Activate Windows 11 (Free) : **([👉Click Here](https://youtu.be/gLpVYYd-8VY) )**
 
 ```code
     - slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
@@ -203,13 +193,13 @@ Import-Module -Name Terminal-Icons
     - slmgr /ato
 ```
 
-#### 🧠 Windows 11 Not Updating Properly : **([👉Click Here](https://youtu.be/ho5RY2IwqOEY) )**
+>> 🧠 Windows 11 Not Updating Properly : **([👉Click Here](https://youtu.be/ho5RY2IwqOEY) )**
 
 ```code
     - Mainly Use Windows Update TroubleShooter
 ```
 
-#### 🥵 Check and Repair SSD : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.) )**
+>> 🥵 Check and Repair SSD : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.) )**
 
 ```code
     - chkdsk
@@ -217,11 +207,11 @@ Import-Module -Name Terminal-Icons
     - chkdsk /f         // Repair Disk Errors
 ```
 
-#### 🥵 Windows can't be Installed on drive 0 Partition 1 : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+>> 🥵 Windows can't be Installed on drive 0 Partition 1 : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
-#### 🥵 Completely Format HDD / SSD **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+>> 🥵 Completely Format HDD / SSD **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
-#### 🫠 Laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+>> 🫠 Laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -229,14 +219,14 @@ Import-Module -Name Terminal-Icons
     - Go to "C:\Windows\System32\battery-report.html"
 ```
 
-#### 😴 Laptop Ram Health Check and Repair : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+>> 😴 Laptop Ram Health Check and Repair : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Open CMD (run as administrator)
     - mdsched.exe
 ```
 
-#### 🦾 How to Delete a File in Use by Another Program : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
+>> 🦾 How to Delete a File in Use by Another Program : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -246,7 +236,7 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
+>> 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
 
 1. **Step - 1 : Create a txt file write the following command**
 
@@ -258,7 +248,7 @@ Import-Module -Name Terminal-Icons
    start websitelink
 ```
 
-#### 🧠 Upgrade Window Powerplan (High Performance Mode) : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
+>> 🧠 Upgrade Window Powerplan (High Performance Mode) : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
 
 ```code
     powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
@@ -268,7 +258,7 @@ Import-Module -Name Terminal-Icons
     powercfg /s SCHEME_MIN
 ```
 
-#### 🧠 Open Bios in easy way without pressing random Key : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
+>> 🧠 Open Bios in easy way without pressing random Key : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
 
 - Right Click on Desktop
 - Click New -> Shortcut
@@ -281,15 +271,11 @@ Import-Module -Name Terminal-Icons
 - Save shortcut with Name : "BIOS"
 - Open Properties -> Advance -> Run as Adminstrator
 
-#### 🧠 Activate Window 11 Without installing anything : **([👉Click Here](https://www.instagram.com/reel/C0DhP4XrfZv/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
+>> 🧠 Activate Window 11 Without installing anything : **([👉Click Here](https://www.instagram.com/reel/C0DhP4XrfZv/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
 
 <hr>
 
-<div align = "center">
-
-### 🍂 Development Problem Solutions 🍂
-
-</div>
+## 🍂 Development Problem Solutions 🍂
 
 >> 🧠 Start Vite React Project (Running Existing Project) : **([👉Click Here](https://www.youtube.com/watch?v=vr-I2HIVmTw))**
 
@@ -393,8 +379,6 @@ Import-Module -Name Terminal-Icons
 ```code
 the mysql -u root -p
 ```
-
-
 
 <hr>
 
