@@ -1,3 +1,0 @@
-Vscode Folder Rename Issue :
-
-- Check that folder is using somewhere else or in terminal or not

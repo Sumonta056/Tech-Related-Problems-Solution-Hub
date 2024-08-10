@@ -2,7 +2,7 @@
 
 ## 😊 Tech Related Problems-Solutions Hub😊
 
-<img src = "back.png" width ="60%">
+<img src = "./Assets/back.png" width ="60%">
 </div>
 
 ## Table of Contents
@@ -20,11 +20,33 @@
   - [🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles)](#vscode-setup-backup-theme---extenstions---profiles)
   - [🫕 How To Install Fira Code font in VS Code ](#how-to-install-fira-code-font-in-vs-code)
   - [🎨 Make Windows + Vs Code Terminal Look Better](#make-windows--vs-code-terminal-look-better)
-  - [😱 Copy the ON-SCREEN code from any YouTube Video, Image](#copy-the-on-screen-code-from-any-youtube-video-image) 
+  - [😱 Copy the ON-SCREEN code from any YouTube Video, Image](#copy-the-on-screen-code-from-any-youtube-video-image)
   - [📷 Fliqlo Desktop Clock ScreenSaver](#fliqlo-desktop-clock-screensaver)
   - [📈 Update All Software in Windows using CMD](#update-all-software-in-windows-using-cmd)
   - [🌬️ Create Virtual Windows [Windows Sandbox]](#create-virtual-windows-windows-sandbox)
+  - [⌨️ Rk-71 Keyboard Offical Software](./RK-71%20Resources/)
 - [🫳 Google Feature Website Shortcut](#google-feature-website-shortcut)
+- [🪟 Windows Related Issue](#windows-related-issue)
+  - [🔓 Activate Windows 11 (Free)](#activate-windows-11-free)
+  - [🔓 Windows 11 Not Updating Properly](#windows-11-not-updating-properly)
+  - [🥵 Check and Repair SSD](#check-and-repair-ssd)
+  - [🥵 Windows can't be Installed on drive 0 Partition 1](#windows-cant-be-installed-on-drive-0-partition-1)
+  - [🥵 Completely Format HDD / SSD](#completely-format-hdd--ssd)
+  - [🫠 Laptop Battery Health Report](#laptop-battery-health-report)
+  - [😴 Laptop Ram Health Check and Repair](#laptop-ram-health-check-and-repair)
+  - [🧠 How to Delete a File in Use by Another Program](#how-to-delete-a-file-in-use-by-another-program)
+- [🍂 Development Problem Solutions](#development-problem-solutions)
+  - [🧠 Live server visual studio code not working || Error port 5500](#live-server-visual-studio-code-not-working--error-port-5500)
+  - [🧠 How To Run an Existing React App In VSCode](#how-to-run-an-existing-react-app-in-vscode)
+  - [🧠 Add images and links in Markdown by dragging and dropping in VSCode](#add-images-and-links-in-markdown-by-dragging-and-dropping-in-vscode)
+  - [🧠 React-scripts' is not recognized as an internal or external command](#react-scripts-is-not-recognized-as-an-internal-or-external-command)
+  - [🧠 Xaamp My SQL is not running](#xaamp-my-sql-is-not-running)
+  - [🧠 #1932- table doesn't exist in engine PhpMyAdmin](#1932--table-doesnt-exist-in-engine-phpmyadmin)
+  - [🧠 How to fix unknown at rule @tailwind warning in VS Code](#how-to-fix-unknown-at-rule-tailwind-warning-in-vs-code)
+  - [🧠 ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved](#error-2003-hy000-cant-connect-to-mysql-server-on-localhost-10061-solved)
+  - [🧠 How to locate a installed software `.exe` in File Explored](#how-to-locate-a-installed-software-exe-in-file-explored)
+  - [🧠 Whatsapp desktop Lagging Issue](#whatsapp-desktop-lagging-issue)
+  - [🧠 Vscode Folder Rename Issue](#vscode-folder-rename-issue)
 
 <hr>
 
@@ -32,7 +54,7 @@
 
 #### ChatGPT-4 & Dall-E Free
 
->> Resource : **([👉Click Here](https://chat-shared3.zhile.io/shared.html))**
+> > Resource : **([👉Click Here](https://chat-shared3.zhile.io/shared.html))**
 
 ```code
     - Use the golden-colored number slot only for access to GPT-4.
@@ -42,7 +64,7 @@
 
 #### SpotX : Modified Spotify Client
 
->> Resource : **([👉Click Here](https://github.com/amd64fox/SpotX))**
+> > Resource : **([👉Click Here](https://github.com/amd64fox/SpotX))**
 
 ```code
     - Install Spotify
@@ -51,7 +73,7 @@
 
 #### Medium Paid Article For Free
 
->> Medium Breaker Extension Resource : **([👉Click Here](https://chromewebstore.google.com/detail/medium-breaker/dccgbfmnbbbaeehljeepffepbdeipjpp))**
+> > Medium Breaker Extension Resource : **([👉Click Here](https://chromewebstore.google.com/detail/medium-breaker/dccgbfmnbbbaeehljeepffepbdeipjpp))**
 
 ```code
     - Open a paid an article
@@ -61,7 +83,7 @@
 
 #### ChatGPT : Desktop Application
 
->> Resources : **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install) )**
+> > Resources : **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install) )**
 
 ```code
     - Download ChatGPT
@@ -70,7 +92,7 @@
 
 #### Download Crack Software FREE : HAXPC
 
->> Resource : **([👉 Website Link](https://haxpc.net/) )**
+> > Resource : **([👉 Website Link](https://haxpc.net/) )**
 
 ```code
     - Search and Download Your Desire Software
@@ -78,7 +100,7 @@
 
 #### QuilBot Premium FREE : Extension
 
->> Resource : **([👉 Website Link](https://github.com/Raguggg/quillbot-premium-for-free?tab=readme-ov-file#verification-code) )**
+> > Resource : **([👉 Website Link](https://github.com/Raguggg/quillbot-premium-for-free?tab=readme-ov-file#verification-code) )**
 
 ```code
     - Download the repository and unpack in extension developer mode
@@ -87,7 +109,7 @@
 
 #### File Transfer Between Windows - Phone - Mac : Local Send
 
->> Resources : **([👉 Click Here](https://www.instagram.com/reel/C22JBXzv-Sa/) ) ([👉 Download Link](https://localsend.org/#/download) )**
+> > Resources : **([👉 Click Here](https://www.instagram.com/reel/C22JBXzv-Sa/) ) ([👉 Download Link](https://localsend.org/#/download) )**
 
 ```code
     - Download The Software Just
@@ -95,7 +117,7 @@
 
 #### Check Windows is Genuine or Not
 
->> Resources : **([👉 Click Here](https://www.instagram.com/reel/C23YHGNyjqs/s) )**
+> > Resources : **([👉 Click Here](https://www.instagram.com/reel/C23YHGNyjqs/s) )**
 
 ```code
     - slmgr /xpr
@@ -103,7 +125,7 @@
 
 #### Microsoft Activation Scripts : Windows Activator
 
->> Resource : **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
+> > Resource : **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
 
 ```code
     - Run the following command in CMD
@@ -112,11 +134,11 @@
 
 #### VSCODE Setup Backup (Theme - Extenstions - Profiles)
 
->> Resource : **([👉Download File ](/Vs%20Code%20Backup/latest%20-%2024%20Feb%20-%202024.code-profile) )**
+> > Resource : **([👉Download File ](/Vs%20Code%20Backup/latest%20-%2024%20Feb%20-%202024.code-profile) )**
 
->> 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/editor/profile/github/18d5e08954ca8b25e66ed055169863e8) )**
+> > 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/editor/profile/github/18d5e08954ca8b25e66ed055169863e8) )**
 
->> 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
+> > 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
 
 - ⬇️ Download The file
 - ➡️ Go to VScode >> Setting >> Profile
@@ -129,20 +151,20 @@
 
 #### How To Install Fira Code font in VS Code
 
->> Resource : **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
+> > Resource : **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
 
 <hr>
 
 #### Make Windows + Vs Code Terminal Look Better
 
->> Resource : **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
+> > Resource : **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
 
 - **➡️ Oh My Posh ([👉 Download File ](https://ohmyposh.dev/) )**
 - **➡️ Nerd Fonts ([👉 Download File ](https://www.nerdfonts.com/font-downloads) )**
 - **➡️ (Oh My Posh) Window Terminal Themes ([👉 Download File ](https://ohmyposh.dev/docs/themes#atomic) )**
 - **➡️ Window Terminal Themes ([👉 Github ](https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes) )**
 - **➡️ Windows Terminal Icons ([👉 Download File ](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) )**
-- **➡️ Backup Folder ([👉 Click Here ](./WindowsPowerShell/) )**
+- **➡️ Backup Folder ([👉 Click Here ](./Powershell%20Setting/) )**
 
 ```
  code $profile "C:\Users\sumon\OneDrive\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
@@ -166,7 +188,7 @@ Import-Module -Name Terminal-Icons
 
 #### Copy the ON-SCREEN code from any YouTube Video, Image
 
->> Resources : **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
+> > Resources : **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
 
 ```code
     - Click then extension and Crop your screen
@@ -175,16 +197,16 @@ Import-Module -Name Terminal-Icons
 
 #### Fliqlo Desktop Clock ScreenSaver
 
->> Resources : **([👉Download Link](https://fliqlo.com/screensaver/) )**
+> > Resources : **([👉Download Link](https://fliqlo.com/screensaver/) )**
 
 ```code
     - Download fliqlo
     - Then install the application
 ```
 
-#### Update All Software in Windows using CMD 
+#### Update All Software in Windows using CMD
 
->> Resource : **([👉Tutorial Link](https://www.instagram.com/reel/CyHwRhTyfmQ/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+> > Resource : **([👉Tutorial Link](https://www.instagram.com/reel/CyHwRhTyfmQ/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Run as CMD as administrator
@@ -194,11 +216,11 @@ Import-Module -Name Terminal-Icons
 
 #### Create Virtual Windows [Windows Sandbox]
 
->> Resources : ([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )
+> > Resources : ([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )
 
 #### Extend Your Image Using UnCROP AI
 
->> Resources :([👉Tutorial Link](https://www.instagram.com/reel/CvExEtmMuqR/?igshid=MzRlODBiNWFlZA%3D%3D) ) ([👉Website](https://clipdrop.co/uncrop) )
+> > Resources :([👉Tutorial Link](https://www.instagram.com/reel/CvExEtmMuqR/?igshid=MzRlODBiNWFlZA%3D%3D) ) ([👉Website](https://clipdrop.co/uncrop) )
 
 <hr>
 
@@ -220,9 +242,13 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-## 🪟 Windows Related Issue 🪟
+## Windows Related Issue
 
->> 🧠 Activate Windows 11 (Free) : **([👉Click Here](https://youtu.be/gLpVYYd-8VY) )**
+#### Activate Windows 11 (Free)
+
+> > Resource: **([👉Click Here](https://youtu.be/gLpVYYd-8VY) )**
+
+> > 🧠 Activate Window 11 Without installing anything : **([👉Click Here](https://www.instagram.com/reel/C0DhP4XrfZv/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
 
 ```code
     - slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
@@ -230,13 +256,17 @@ Import-Module -Name Terminal-Icons
     - slmgr /ato
 ```
 
->> 🧠 Windows 11 Not Updating Properly : **([👉Click Here](https://youtu.be/ho5RY2IwqOEY) )**
+#### Windows 11 Not Updating Properly
+
+> > Resource : **([👉Click Here](https://youtu.be/ho5RY2IwqOEY) )**
 
 ```code
     - Mainly Use Windows Update TroubleShooter
 ```
 
->> 🥵 Check and Repair SSD : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.) )**
+#### Check and Repair SSD
+
+> > Resource : **([👉Click Here](https://www.cdw.com/content/cdw/en/articles/hardware/how-to-check-hard-drive-health.html#:~:text=Windows%20Chkdsk&text=Type%20%22cmd%22%20into%20the%20search,%22chkdsk%22%20and%20hit%20enter.) )**
 
 ```code
     - chkdsk
@@ -244,11 +274,19 @@ Import-Module -Name Terminal-Icons
     - chkdsk /f         // Repair Disk Errors
 ```
 
->> 🥵 Windows can't be Installed on drive 0 Partition 1 : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+#### Windows can't be Installed on drive 0 Partition 1
 
->> 🥵 Completely Format HDD / SSD **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+> > 🥵 Resource : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
->> 🫠 Laptop Battery Health Report : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+#### Completely Format HDD / SSD
+
+> > 🥵 Resource : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+
+#### Laptop Battery Health Report
+
+> > 🫠 Resource : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+
+> > Go to this path: C:\Windows\System32\battery-report.html
 
 ```code
     - Open CMD (run as administrator)
@@ -256,14 +294,18 @@ Import-Module -Name Terminal-Icons
     - Go to "C:\Windows\System32\battery-report.html"
 ```
 
->> 😴 Laptop Ram Health Check and Repair : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+#### Laptop Ram Health Check and Repair
+
+> > 😴 Resource: **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Open CMD (run as administrator)
     - mdsched.exe
 ```
 
->> 🦾 How to Delete a File in Use by Another Program : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
+#### How to Delete a File in Use by Another Program
+
+> > 🦾 Resource : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -273,9 +315,11 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
->> 🧠 Run Important Tabs in OneClick in Browser : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
+#### Run Important Tabs in OneClick in Browser
 
-1. **Step - 1 : Create a txt file write the following command**
+> > 🧠 Resource : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
+
+- **Step - 1 : Create a txt file write the following command**
 
 ```code
    @echo off
@@ -285,7 +329,9 @@ Import-Module -Name Terminal-Icons
    start websitelink
 ```
 
->> 🧠 Upgrade Window Powerplan (High Performance Mode) : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
+#### Upgrade Window Powerplan (High Performance Mode)
+
+> > 🧠 Resource : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
 
 ```code
     powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
@@ -295,7 +341,9 @@ Import-Module -Name Terminal-Icons
     powercfg /s SCHEME_MIN
 ```
 
->> 🧠 Open Bios in easy way without pressing random Key : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
+#### Open Bios in easy way without pressing random Key
+
+> > 🧠 Resource : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
 
 - Right Click on Desktop
 - Click New -> Shortcut
@@ -308,29 +356,13 @@ Import-Module -Name Terminal-Icons
 - Save shortcut with Name : "BIOS"
 - Open Properties -> Advance -> Run as Adminstrator
 
->> 🧠 Activate Window 11 Without installing anything : **([👉Click Here](https://www.instagram.com/reel/C0DhP4XrfZv/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
-
 <hr>
 
-## 🍂 Development Problem Solutions 🍂
+## Development Problem Solutions
 
->> 🧠 Start Vite React Project (Running Existing Project) : **([👉Click Here](https://www.youtube.com/watch?v=vr-I2HIVmTw))**
+#### Live server visual studio code not working || Error port 5500
 
-```code
-    npn create vite@latest
-```
-
-```code
-    npm install
-```
-
-```code
-    npm run dev
-```
-
-<hr>
-
->> 🧠 Live server visual studio code not working || Error port 5500 : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
+> > 🧠 Resource : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
 
 - **Reinstall Live Server**
 - **Use LiveServer: Setting : Use Local IP**
@@ -338,9 +370,9 @@ Import-Module -Name Terminal-Icons
   - **Edit in Settings.json**
     - `"liverserver.settings.port" : 0`
 
-<hr>
+#### How To Run an Existing React App In VSCode
 
->> 🧠 How To Run an Existing React App In VSCode : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
+> > 🧠 Resource : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
 
 ```code
     npm install
@@ -350,13 +382,13 @@ Import-Module -Name Terminal-Icons
     npm start
 ```
 
-<hr>
+#### Add images and links in Markdown by dragging and dropping in VSCode
 
->> 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
+> > 🧠 Resource: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
 
-<hr>
+#### React-scripts' is not recognized as an internal or external command
 
->> 🧠 react-scripts' is not recognized as an internal or external command : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
+> > 🧠 Resource : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
 
 - "react-scripts" is present in package.json, then just type this command
 
@@ -370,9 +402,9 @@ Import-Module -Name Terminal-Icons
     npm install react-scripts --save
 ```
 
-<hr>
+#### Xaamp My SQL is not running
 
->> 🧠 Xaamp My SQL is not running: **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
+> > 🧠 Resource : **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
 
 - Error Message Shows
 
@@ -403,26 +435,32 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
->> 🧠 "#1932- table doesn't exist in engine PhpMyAdmin" **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
+#### #1932- table doesn't exist in engine PhpMyAdmin
 
-<hr>
+> > 🧠 Resource : **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
 
->> 🧠 "How to fix "unknown at rule @tailwind" warning in VS Code" **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
+#### How to fix unknown at rule @tailwind warning in VS Code
 
-<hr>
+> > 🧠 Resource : **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
 
->> ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved **([👉Click Here : Solution](https://youtu.be/9haB3XP3FME?si=2P2GsLxrssM_LQXF))**
+#### ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved
+
+> > Resource : **([👉Click Here : Solution](https://youtu.be/9haB3XP3FME?si=2P2GsLxrssM_LQXF))**
 
 ```code
 the mysql -u root -p
 ```
 
-<hr>
+#### How to locate a installed software `.exe` in File Explored
 
->> How to locate a installed software `.exe` in File Explored **([👉Click Here : Solution](https://www.reddit.com/r/whatsapp/comments/vwodk3/where_is_whatsapp_desktop_located_on_pc/))**
+> > Resource : **([👉Click Here : Solution](https://www.reddit.com/r/whatsapp/comments/vwodk3/where_is_whatsapp_desktop_located_on_pc/))**
 
-<hr>
+#### Whatsapp desktop Lagging Issue
 
->> Whatsapp desktop Lag **([👉Click Here : Solution](https://answers.microsoft.com/en-us/windows/forum/all/whatsapp-desktop-input-lag-when-installed-along/67a20a54-4796-478e-bc5e-8bd75e279ebf#:~:text=%2D%20Compatibility%20Mode%3A%20Try%20running%20WhatsApp,a%20different%20version%20of%20Windows.))**
+> > Resource : **([👉Click Here : Solution](https://answers.microsoft.com/en-us/windows/forum/all/whatsapp-desktop-input-lag-when-installed-along/67a20a54-4796-478e-bc5e-8bd75e279ebf#:~:text=%2D%20Compatibility%20Mode%3A%20Try%20running%20WhatsApp,a%20different%20version%20of%20Windows.))**
+
+### Vscode Folder Rename Issue
+
+> > Check that folder is using somewhere else or in terminal or not
 
 <hr>

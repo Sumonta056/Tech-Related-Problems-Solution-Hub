@@ -1,0 +1,10 @@
+
+
+ctrl shift esc taskmanager
+ctrl shift n newfolder
+f2 changename
+alt tab switch tab
+ctrl + backspace delete word
+home - cursor begining of the sentence 
+shift + end - select whole sentence
+shift + home - same

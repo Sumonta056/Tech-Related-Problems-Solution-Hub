@@ -1,0 +1,39 @@
+1.Opens a new window.	                 Ctrl+N
+
+2.Opens a new tab.	                 Ctrl+T
+
+3.Opens a new window in incognito mode.	 Ctrl+Shift+N
+
+4.Reopens the last tab you’ve closed.
+Google Chrome remembers
+the last 10 tabs you’ve closed.	         Ctrl+Shift+T
+
+5.Switches to the tab at the specified
+position number on the tab strip.	Ctrl+1 through Ctrl+8.
+
+6.Goes to the next page in your 
+browsing history for the tab.	       alt + left right
+
+Toggles the bookmarks bar on and off.	Ctrl+Shift+B
+
+Opens the History page.	                Ctrl+H
+
+Opens the Downloads page.	       Ctrl+J
+
+Opens the Task Manager.	               Shift+Esc
+
+Reloads your current page.	       F5 or Ctrl+R
+
+Stops the loading of your current page.	       Esc
+
+Saves your current webpage as a bookmark.	Ctrl+D
+
+Opens your page in full-screen mode. 
+Press F11 again to exit full-screen.         f11
+
+Goes to the top of the page.	         Home
+
+Goes to the bottom of the page.	      End
+
+Jump to the next open tab	Ctrl + Tab 
+Jump to the previous open tab	Ctrl + Shift + Tab 
