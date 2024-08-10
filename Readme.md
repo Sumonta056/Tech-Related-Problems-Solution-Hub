@@ -1,10 +1,38 @@
-# 😊 Tech Related Problems-Solutions Hub😊
+<div align = "center">
 
-<img src = "back.png">
+## 😊 Tech Related Problems-Solutions Hub😊
 
-## 👩‍💻 Moded App & Software Link 👩‍💻
+<img src = "back.png" width ="60%">
+</div>
 
-#### 🙏 ChatGPT-4 & Dall-E Free **([👉Click Here](https://chat-shared3.zhile.io/shared.html))**
+## Table of Contents
+
+- [👩‍💻 Moded App & Software Link](#moded-app--software-link)
+  - [🙏 ChatGPT-4 \& Dall-E Free](#chatgpt-4--dall-e-free)
+  - [🎶 SpotX : Modified Spotify Client](#spotx--modified-spotify-client)
+  - [Ⓜ️ Medium Paid Article For Free](#medium-paid-article-for-free)
+  - [🗣️ ChatGPT : Desktop Application](#chatgpt--desktop-application)
+  - [🗣️ Download Crack Software FREE : HAXPC](#download-crack-software-free--haxpc)
+  - [🗣️ QuilBot Premium FREE : Extension](#quilbot-premium-free--extension)
+  - [🗣️ File Transfer Between Windows - Phone - Mac : Local Send](#file-transfer-between-windows---phone---mac--local-send)
+  - [🗣️ Check Windows is Genuine or Not](#check-windows-is-genuine-or-not)
+  - [🗣️ Microsoft Activation Scripts : Windows Activator](#microsoft-activation-scripts--windows-activator)
+  - [🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles)](#vscode-setup-backup-theme---extenstions---profiles)
+  - [🫕 How To Install Fira Code font in VS Code ](#how-to-install-fira-code-font-in-vs-code)
+  - [🎨 Make Windows + Vs Code Terminal Look Better](#make-windows--vs-code-terminal-look-better)
+  - [😱 Copy the ON-SCREEN code from any YouTube Video, Image](#copy-the-on-screen-code-from-any-youtube-video-image) 
+  - [📷 Fliqlo Desktop Clock ScreenSaver](#fliqlo-desktop-clock-screensaver)
+  - [📈 Update All Software in Windows using CMD](#update-all-software-in-windows-using-cmd)
+  - [🌬️ Create Virtual Windows [Windows Sandbox]](#create-virtual-windows-windows-sandbox)
+- [🫳 Google Feature Website Shortcut](#google-feature-website-shortcut)
+
+<hr>
+
+## Moded App & Software Link
+
+#### ChatGPT-4 & Dall-E Free
+
+>> Resource : **([👉Click Here](https://chat-shared3.zhile.io/shared.html))**
 
 ```code
     - Use the golden-colored number slot only for access to GPT-4.
@@ -12,18 +40,18 @@
     - Choose GPT-4 from Top
 ```
 
-<hr>
+#### SpotX : Modified Spotify Client
 
-#### 🎶 SpotX : Modified Spotify Client **([👉Click Here](https://github.com/amd64fox/SpotX))**
+>> Resource : **([👉Click Here](https://github.com/amd64fox/SpotX))**
 
 ```code
     - Install Spotify
     - Then install this which disable's Spotify Ad
 ```
 
-<hr>
+#### Medium Paid Article For Free
 
-#### Ⓜ️ Medium Paid Article For Free (Medium Breaker Extension) **([👉Click Here](https://chromewebstore.google.com/detail/medium-breaker/dccgbfmnbbbaeehljeepffepbdeipjpp))**
+>> Medium Breaker Extension Resource : **([👉Click Here](https://chromewebstore.google.com/detail/medium-breaker/dccgbfmnbbbaeehljeepffepbdeipjpp))**
 
 ```code
     - Open a paid an article
@@ -31,54 +59,60 @@
     - Click on "Break the Article!"
 ```
 
-#### 🗣️ ChatGPT : Desktop Application **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install) )**
+#### ChatGPT : Desktop Application
+
+>> Resources : **([👉GitHub Link](https://github.com/lencx/ChatGPT) ) ([👉Download Link](https://app.nofwl.com/chatgpt/install) )**
 
 ```code
     - Download ChatGPT
     - Then install the application
 ```
 
-<hr>
+#### Download Crack Software FREE : HAXPC
 
-#### 🗣️ Download Crack Software FREE : HAXPC **([👉 Website Link](https://haxpc.net/) )**
+>> Resource : **([👉 Website Link](https://haxpc.net/) )**
 
 ```code
     - Search and Download Your Desire Software
 ```
 
-<hr>
+#### QuilBot Premium FREE : Extension
 
-#### 🗣️ QuilBot Premium FREE : Extension **([👉 Website Link](https://github.com/Raguggg/quillbot-premium-for-free?tab=readme-ov-file#verification-code) )**
+>> Resource : **([👉 Website Link](https://github.com/Raguggg/quillbot-premium-for-free?tab=readme-ov-file#verification-code) )**
 
 ```code
     - Download the repository and unpack in extension developer mode
     - Verification Code : ragu@123
 ```
 
-<hr>
+#### File Transfer Between Windows - Phone - Mac : Local Send
 
-#### 🗣️ File Transfer Between Windows - Phone - Mac : Local Send **([👉 Click Here](https://www.instagram.com/reel/C22JBXzv-Sa/) ) ([👉 Download Link](https://localsend.org/#/download) )**
+>> Resources : **([👉 Click Here](https://www.instagram.com/reel/C22JBXzv-Sa/) ) ([👉 Download Link](https://localsend.org/#/download) )**
 
 ```code
     - Download The Software Just
 ```
 
-#### 🗣️ Check Windows is Genuine or Not **([👉 Click Here](https://www.instagram.com/reel/C23YHGNyjqs/s) )**
+#### Check Windows is Genuine or Not
+
+>> Resources : **([👉 Click Here](https://www.instagram.com/reel/C23YHGNyjqs/s) )**
 
 ```code
     - slmgr /xpr
 ```
 
-#### 🗣️ Microsoft Activation Scripts : Windows Activator **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
+#### Microsoft Activation Scripts : Windows Activator
+
+>> Resource : **([👉 Website Link](https://github.com/massgravel/Microsoft-Activation-Scripts) )**
 
 ```code
     - Run the following command in CMD
     - irm https://massgrave.dev/get | iex
 ```
 
-<hr>
+#### VSCODE Setup Backup (Theme - Extenstions - Profiles)
 
-#### 🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles) **([👉Download File ](/Vs%20Code%20Backup/latest%20-%2024%20Feb%20-%202024.code-profile) )**
+>> Resource : **([👉Download File ](/Vs%20Code%20Backup/latest%20-%2024%20Feb%20-%202024.code-profile) )**
 
 >> 🔄️ Backup Gist Link **([👉Click Here ](https://vscode.dev/editor/profile/github/18d5e08954ca8b25e66ed055169863e8) )**
 
@@ -93,18 +127,21 @@
 
 <hr>
 
-### 🫕 How To Install Fira Code font in VS Code **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
+#### How To Install Fira Code font in VS Code
+
+>> Resource : **([👉 Tutorial Link ](https://www.dhairyashah.dev/posts/how-to-install-fira-code-font-in-visual-studio-code/) )**
 
 <hr>
 
-### 🎨 Make Windows + Vs Code Terminal Look Better **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
+#### Make Windows + Vs Code Terminal Look Better
+
+>> Resource : **([👉 Tutorial Link ](https://youtu.be/FUwEh8vh9mw?si=YAzUH4wQYIsyb-RO) )**
 
 - **➡️ Oh My Posh ([👉 Download File ](https://ohmyposh.dev/) )**
 - **➡️ Nerd Fonts ([👉 Download File ](https://www.nerdfonts.com/font-downloads) )**
 - **➡️ (Oh My Posh) Window Terminal Themes ([👉 Download File ](https://ohmyposh.dev/docs/themes#atomic) )**
 - **➡️ Window Terminal Themes ([👉 Github ](https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes) )**
 - **➡️ Windows Terminal Icons ([👉 Download File ](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) )**
-
 - **➡️ Backup Folder ([👉 Click Here ](./WindowsPowerShell/) )**
 
 ```
@@ -127,25 +164,27 @@ Import-Module -Name Terminal-Icons
 
 <hr>
 
-#### 😱 Copy the ON-SCREEN code from any YouTube Video, Image **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
+#### Copy the ON-SCREEN code from any YouTube Video, Image
+
+>> Resources : **([👉Tutorial Link](https://youtu.be/mFud2hDrvvQ?si=Rqcj95HWRlC5ToST) ) ( [👉Extension Link](https://chrome.google.com/webstore/detail/blackbox-code-chat-autoco/mcgbeeipkmelnpldkobichboakdfaeon/related) )**
 
 ```code
     - Click then extension and Crop your screen
     - Then paste the code in Text Editor
 ```
 
-<hr>
+#### Fliqlo Desktop Clock ScreenSaver
 
-#### 📷 Fliqlo Desktop Clock ScreenSaver **([👉Download Link](https://fliqlo.com/screensaver/) )**
+>> Resources : **([👉Download Link](https://fliqlo.com/screensaver/) )**
 
 ```code
     - Download fliqlo
     - Then install the application
 ```
 
-<hr>
+#### Update All Software in Windows using CMD 
 
-#### 📈 Update All Software in Windows using CMD **([👉Tutorial Link](https://www.instagram.com/reel/CyHwRhTyfmQ/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+>> Resource : **([👉Tutorial Link](https://www.instagram.com/reel/CyHwRhTyfmQ/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Run as CMD as administrator
@@ -153,15 +192,17 @@ Import-Module -Name Terminal-Icons
     - Type : WINGET UPGRADE --ALL
 ```
 
+#### Create Virtual Windows [Windows Sandbox]
+
+>> Resources : ([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )
+
+#### Extend Your Image Using UnCROP AI
+
+>> Resources :([👉Tutorial Link](https://www.instagram.com/reel/CvExEtmMuqR/?igshid=MzRlODBiNWFlZA%3D%3D) ) ([👉Website](https://clipdrop.co/uncrop) )
+
 <hr>
 
-#### 🌬️ Create Virtual Windows [Windows Sandbox] ([👉Tutorial Link](https://www.instagram.com/reel/Cw_qb9YyduX/?igshid=MzRlODBiNWFlZA%3D%3D) )
-
-#### 🌌 Extend Your Image Using UnCROP AI ([👉Tutorial Link](https://www.instagram.com/reel/CvExEtmMuqR/?igshid=MzRlODBiNWFlZA%3D%3D) ) ([👉Website](https://clipdrop.co/uncrop) )
-
-<hr>
-
-#### 🫳 Google Feature Website Shortcut
+## Google Feature Website Shortcut
 
 ###### Google Docs ( [👉 doc.new](https://doc.new) )
 
