@@ -276,15 +276,15 @@ Import-Module -Name Terminal-Icons
 
 #### Windows can't be Installed on drive 0 Partition 1
 
-> > 🥵 Resource : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+> > Resource : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
 #### Completely Format HDD / SSD
 
-> > 🥵 Resource : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
+> > Resource : **([👉Click Here](https://youtu.be/mBNYPNuIYWo) )**
 
 #### Laptop Battery Health Report
 
-> > 🫠 Resource : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+> > Resource : **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 > > Go to this path: C:\Windows\System32\battery-report.html
 
@@ -296,7 +296,7 @@ Import-Module -Name Terminal-Icons
 
 #### Laptop Ram Health Check and Repair
 
-> > 😴 Resource: **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
+> > Resource: **([👉Click Here](https://www.instagram.com/reel/CtMQY1gAUvU/?igshid=MzRlODBiNWFlZA%3D%3D) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -305,7 +305,7 @@ Import-Module -Name Terminal-Icons
 
 #### How to Delete a File in Use by Another Program
 
-> > 🦾 Resource : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
+> > Resource : **([👉Click Here](https://www.makeuseof.com/tag/5-ways-delete-file-use-windows/) )**
 
 ```code
     - Open CMD (run as administrator)
@@ -317,7 +317,7 @@ Import-Module -Name Terminal-Icons
 
 #### Run Important Tabs in OneClick in Browser
 
-> > 🧠 Resource : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
+> > Resource : **([👉Click Here](https://www.facebook.com/reel/1568140050380181) )**
 
 - **Step - 1 : Create a txt file write the following command**
 
@@ -331,7 +331,7 @@ Import-Module -Name Terminal-Icons
 
 #### Upgrade Window Powerplan (High Performance Mode)
 
-> > 🧠 Resource : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
+> > Resource : **([👉Click Here](https://youtu.be/WrJVlIrutow?t=278) )**
 
 ```code
     powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
@@ -343,7 +343,7 @@ Import-Module -Name Terminal-Icons
 
 #### Open Bios in easy way without pressing random Key
 
-> > 🧠 Resource : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
+> > Resource : **([👉Click Here](https://www.instagram.com/reel/C0frzbDSVRd/?igshid=NzBmMjdhZWRiYQ%3D%3D) )**
 
 - Right Click on Desktop
 - Click New -> Shortcut
@@ -362,7 +362,7 @@ Import-Module -Name Terminal-Icons
 
 #### Live server visual studio code not working || Error port 5500
 
-> > 🧠 Resource : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
+> > Resource : **([👉Click Here](https://www.youtube.com/watch?v=AbeUIvinBwQ))**
 
 - **Reinstall Live Server**
 - **Use LiveServer: Setting : Use Local IP**
@@ -372,7 +372,7 @@ Import-Module -Name Terminal-Icons
 
 #### How To Run an Existing React App In VSCode
 
-> > 🧠 Resource : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
+> > Resource : **([👉Click Here](https://youtu.be/WIBSPhffOHI?si=DNfPizYZbPL8Si3g))**
 
 ```code
     npm install
@@ -384,11 +384,11 @@ Import-Module -Name Terminal-Icons
 
 #### Add images and links in Markdown by dragging and dropping in VSCode
 
-> > 🧠 Resource: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
+> > Resource: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
 
 #### React-scripts' is not recognized as an internal or external command
 
-> > 🧠 Resource : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
+> > Resource : **([👉Click Here](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command))**
 
 - "react-scripts" is present in package.json, then just type this command
 
@@ -404,7 +404,7 @@ Import-Module -Name Terminal-Icons
 
 #### Xaamp My SQL is not running
 
-> > 🧠 Resource : **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
+> > Resource : **([👉Click Here](https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly))**
 
 - Error Message Shows
 
@@ -437,11 +437,11 @@ Import-Module -Name Terminal-Icons
 
 #### #1932- table doesn't exist in engine PhpMyAdmin
 
-> > 🧠 Resource : **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
+> > Resource : **([👉Click Here : Solution](https://youtu.be/B1bukSUIKW0?si=aQI0Jd7Selef_b14))**
 
 #### How to fix unknown at rule @tailwind warning in VS Code
 
-> > 🧠 Resource : **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
+> > Resource : **([👉Click Here : Solution](https://www.instagram.com/reel/C4DV54MNLSo/))**
 
 #### ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved
 
