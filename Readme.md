@@ -47,6 +47,8 @@
   - [🧠 How to locate a installed software `.exe` in File Explored](#how-to-locate-a-installed-software-exe-in-file-explored)
   - [🧠 Whatsapp desktop Lagging Issue](#whatsapp-desktop-lagging-issue)
   - [🧠 Vscode Folder Rename Issue](#vscode-folder-rename-issue)
+  - [🧠 Where is the password for the cluster? : MongdDB Atlas](#where-is-the-password-for-the-cluster--mongddb-atlas)
+  - [🧠 Error while connecting my database through Mongodb compass : MongdDB Atlas](#error-while-connecting-my-database-through-mongodb-compass--mongddb-atlas)
 
 <hr>
 
@@ -462,5 +464,22 @@ the mysql -u root -p
 ### Vscode Folder Rename Issue
 
 > > Check that folder is using somewhere else or in terminal or not
+
+#### Where is the password for the cluster? : MongdDB Atlas
+
+> > Resource : **([👉Click Here : Solution](https://www.mongodb.com/community/forums/t/where-is-the-password-for-the-cluster/112742))**
+
+#### Error while connecting my database through Mongodb compass : MongdDB Atlas
+
+> > Resource : **([👉Click Here : Solution](https://www.mongodb.com/community/forums/t/error-while-connecting-my-database-through-mongodb-compass/243317))**
+
+> > **Solution :**
+
+```code
+    - Go to Network Access
+    - Add IP Address
+    - Add Current IP Address
+    - or Add 0.0.0.0/0
+```
 
 <hr>
