@@ -52,6 +52,7 @@
   - [🧠 Where is the password for the cluster? : MongdDB Atlas](#where-is-the-password-for-the-cluster--mongddb-atlas)
   - [🧠 Error while connecting my database through Mongodb compass : MongdDB Atlas](#error-while-connecting-my-database-through-mongodb-compass--mongddb-atlas)
   - [🧠 Error loading webview: Error: Could not register service workers: TypeError: Failed to register a ServiceWorker for scope](#error-loading-webview-error-could-not-register-service-workers-typeerror-failed-to-register-a-serviceworker-for-scope)
+  - [🧠 How to preview a Next.JS app on a mobile device](#how-to-preview-a-nextjs-app-on-a-mobile-device)
 
 <hr>
 
@@ -512,5 +513,12 @@ Get-CimInstance Win32_WinSat
 #### Turn off laptop privacy settings : Performance boost
 
 > > Resource : **([👉Click Here : Solution](https://www.instagram.com/reel/C-VJCcbvJF0/))**
+
+#### How to preview a Next.JS app on a mobile device
+
+> > Resource : **([👉Click Here : Solution](https://dev.to/timreach/how-to-preview-a-nextjs-app-on-a-mobile-device-lf6))**
+
+- Check your current Ip address : `ipconfig`
+- Now run this address in phone browser : [http://192.168.0.102:3000](http://192.168.0.102:3000/)
 
 <hr>
