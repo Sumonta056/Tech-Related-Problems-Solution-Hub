@@ -28,6 +28,8 @@
 - [🫳 Google Feature Website Shortcut](#google-feature-website-shortcut)
 - [🪟 Windows Related Issue](#windows-related-issue)
   - [🔓 Activate Windows 11 (Free)](#activate-windows-11-free)
+  - [🪶 Check Laptop Performance Score](#check-laptop-performance-score)
+  - [🔥 Turn off laptop privacy settings : Performance boost](#turn-off-laptop-privacy-settings--performance-boost)
   - [🔓 Windows 11 Not Updating Properly](#windows-11-not-updating-properly)
   - [🥵 Check and Repair SSD](#check-and-repair-ssd)
   - [🥵 Windows can't be Installed on drive 0 Partition 1](#windows-cant-be-installed-on-drive-0-partition-1)
@@ -496,5 +498,19 @@ the mysql -u root -p
     - CachedExtensionVSIXs,
     - Code Cache
 ```
+
+#### Check Laptop Performance Score
+
+> > Resource : **([👉Click Here : Solution](https://www.instagram.com/reel/C_VY4L9PG8Y/))**
+
+- Open powershell in 'run as adminstration'
+
+```code
+Get-CimInstance Win32_WinSat
+```
+
+#### Turn off laptop privacy settings : Performance boost
+
+> > Resource : **([👉Click Here : Solution](https://www.instagram.com/reel/C-VJCcbvJF0/))**
 
 <hr>
