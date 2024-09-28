@@ -79,13 +79,14 @@
 
 #### Medium Paid Article For Free
 
-> > Medium Breaker Extension Resource : **([👉Click Here](https://chromewebstore.google.com/detail/medium-breaker/dccgbfmnbbbaeehljeepffepbdeipjpp))**
+> > Medium Unlock Extension Resource : **([👉Click Here](https://chromewebstore.google.com/detail/medium-unlock/babnnfmbjokkeieobamoifmeapbbfhje))**
 
 ```code
     - Open a paid an article
-    - Right Click on that page
-    - Click on "Break the Article!"
+    - Click the Extension
 ```
+> > Free Medium Extension: **([👉Click Here](https://github.com/fferrin/free-medium))**
+
 
 #### ChatGPT : Desktop Application
 
