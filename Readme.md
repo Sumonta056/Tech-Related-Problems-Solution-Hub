@@ -12,6 +12,7 @@
   - [🎶 SpotX : Modified Spotify Client](#spotx--modified-spotify-client)
   - [Ⓜ️ Medium Paid Article For Free](#medium-paid-article-for-free)
   - [🗣️ ChatGPT : Desktop Application](#chatgpt--desktop-application)
+  - [🗣️ Win Memory Cleaner : Cleans Ram Space](#win-memory-cleaner--cleans-ram-space)
   - [🗣️ Download Crack Software FREE : HAXPC](#download-crack-software-free--haxpc)
   - [🗣️ QuilBot Premium FREE : Extension](#quilbot-premium-free--extension)
   - [🗣️ File Transfer Between Windows - Phone - Mac : Local Send](#file-transfer-between-windows---phone---mac--local-send)
@@ -95,6 +96,15 @@
 ```code
     - Download ChatGPT
     - Then install the application
+```
+
+#### Win Memory Cleaner : Cleans Ram Space
+
+> > Resources : **([👉GitHub Link](https://github.com/IgorMundstein/WinMemoryCleaner/releases/tag/2.8) ) ([👉Download Link](https://github.com/IgorMundstein/WinMemoryCleaner/releases/download/2.8/WinMemoryCleaner.exe) )**
+
+```code
+    - Download the exe file
+    - Then run the application
 ```
 
 #### Download Crack Software FREE : HAXPC
