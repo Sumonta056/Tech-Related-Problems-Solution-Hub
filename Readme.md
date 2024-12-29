@@ -7,53 +7,67 @@
 
 ## Table of Contents
 
-- [👩‍💻 Moded App & Software Link](#moded-app--software-link)
-  - [🙏 ChatGPT-4 \& Dall-E Free](#chatgpt-4--dall-e-free)
-  - [🎶 SpotX : Modified Spotify Client](#spotx--modified-spotify-client)
-  - [Ⓜ️ Medium Paid Article For Free](#medium-paid-article-for-free)
-  - [🗣️ ChatGPT : Desktop Application](#chatgpt--desktop-application)
-  - [🗣️ Win Memory Cleaner : Cleans Ram Space](#win-memory-cleaner--cleans-ram-space)
-  - [🗣️ Download Crack Software FREE : HAXPC](#download-crack-software-free--haxpc)
-  - [🗣️ QuilBot Premium FREE : Extension](#quilbot-premium-free--extension)
-  - [🗣️ File Transfer Between Windows - Phone - Mac : Local Send](#file-transfer-between-windows---phone---mac--local-send)
-  - [🗣️ Check Windows is Genuine or Not](#check-windows-is-genuine-or-not)
-  - [🗣️ Microsoft Activation Scripts : Windows Activator](#microsoft-activation-scripts--windows-activator)
-  - [🆚 VSCODE Setup Backup (Theme - Extenstions - Profiles)](#vscode-setup-backup-theme---extenstions---profiles)
-  - [🫕 How To Install Fira Code font in VS Code ](#how-to-install-fira-code-font-in-vs-code)
-  - [🎨 Make Windows + Vs Code Terminal Look Better](#make-windows--vs-code-terminal-look-better)
-  - [😱 Copy the ON-SCREEN code from any YouTube Video, Image](#copy-the-on-screen-code-from-any-youtube-video-image)
-  - [📷 Fliqlo Desktop Clock ScreenSaver](#fliqlo-desktop-clock-screensaver)
-  - [📈 Update All Software in Windows using CMD](#update-all-software-in-windows-using-cmd)
-  - [🌬️ Create Virtual Windows [Windows Sandbox]](#create-virtual-windows-windows-sandbox)
-  - [⌨️ Rk-71 Keyboard Offical Software](./RK-71%20Resources/)
-- [🫳 Google Feature Website Shortcut](#google-feature-website-shortcut)
-- [🪟 Windows Related Issue](#windows-related-issue)
-  - [🔓 Activate Windows 11 (Free)](#activate-windows-11-free)
-  - [🪶 Check Laptop Performance Score](#check-laptop-performance-score)
-  - [🔥 Turn off laptop privacy settings : Performance boost](#turn-off-laptop-privacy-settings--performance-boost)
-  - [🔓 Windows 11 Not Updating Properly](#windows-11-not-updating-properly)
-  - [🥵 Check and Repair SSD](#check-and-repair-ssd)
-  - [🥵 Windows can't be Installed on drive 0 Partition 1](#windows-cant-be-installed-on-drive-0-partition-1)
-  - [🥵 Completely Format HDD / SSD](#completely-format-hdd--ssd)
-  - [🫠 Laptop Battery Health Report](#laptop-battery-health-report)
-  - [😴 Laptop Ram Health Check and Repair](#laptop-ram-health-check-and-repair)
-  - [🧠 How to Delete a File in Use by Another Program](#how-to-delete-a-file-in-use-by-another-program)
-- [🍂 Development Problem Solutions](#development-problem-solutions)
-  - [🧠 Live server visual studio code not working || Error port 5500](#live-server-visual-studio-code-not-working--error-port-5500)
-  - [🧠 How To Run an Existing React App In VSCode](#how-to-run-an-existing-react-app-in-vscode)
-  - [🧠 Add images and links in Markdown by dragging and dropping in VSCode](#add-images-and-links-in-markdown-by-dragging-and-dropping-in-vscode)
-  - [🧠 React-scripts' is not recognized as an internal or external command](#react-scripts-is-not-recognized-as-an-internal-or-external-command)
-  - [🧠 Xaamp My SQL is not running](#xaamp-my-sql-is-not-running)
-  - [🧠 #1932- table doesn't exist in engine PhpMyAdmin](#1932--table-doesnt-exist-in-engine-phpmyadmin)
-  - [🧠 How to fix unknown at rule @tailwind warning in VS Code](#how-to-fix-unknown-at-rule-tailwind-warning-in-vs-code)
-  - [🧠 ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved](#error-2003-hy000-cant-connect-to-mysql-server-on-localhost-10061-solved)
-  - [🧠 How to locate a installed software `.exe` in File Explored](#how-to-locate-a-installed-software-exe-in-file-explored)
-  - [🧠 Whatsapp desktop Lagging Issue](#whatsapp-desktop-lagging-issue)
-  - [🧠 Vscode Folder Rename Issue](#vscode-folder-rename-issue)
-  - [🧠 Where is the password for the cluster? : MongdDB Atlas](#where-is-the-password-for-the-cluster--mongddb-atlas)
-  - [🧠 Error while connecting my database through Mongodb compass : MongdDB Atlas](#error-while-connecting-my-database-through-mongodb-compass--mongddb-atlas)
-  - [🧠 Error loading webview: Error: Could not register service workers: TypeError: Failed to register a ServiceWorker for scope](#error-loading-webview-error-could-not-register-service-workers-typeerror-failed-to-register-a-serviceworker-for-scope)
-  - [🧠 How to preview a Next.JS app on a mobile device](#how-to-preview-a-nextjs-app-on-a-mobile-device)
+- [😊 Tech Related Problems-Solutions Hub😊](#-tech-related-problems-solutions-hub)
+- [Table of Contents](#table-of-contents)
+- [Moded App \& Software Link](#moded-app--software-link)
+    - [ChatGPT-4 \& Dall-E Free](#chatgpt-4--dall-e-free)
+    - [SpotX : Modified Spotify Client](#spotx--modified-spotify-client)
+    - [Install All Necessary Software in Windows (Using Cmd)](#install-all-necessary-software-in-windows-using-cmd)
+    - [Windows 11 Guide \& Resources](#windows-11-guide--resources)
+    - [Medium Paid Article For Free](#medium-paid-article-for-free)
+    - [ChatGPT : Desktop Application](#chatgpt--desktop-application)
+    - [Win Memory Cleaner : Cleans Ram Space](#win-memory-cleaner--cleans-ram-space)
+    - [Download Crack Software FREE : HAXPC](#download-crack-software-free--haxpc)
+    - [QuilBot Premium FREE : Extension](#quilbot-premium-free--extension)
+    - [File Transfer Between Windows - Phone - Mac : Local Send](#file-transfer-between-windows---phone---mac--local-send)
+    - [Check Windows is Genuine or Not](#check-windows-is-genuine-or-not)
+    - [Microsoft Activation Scripts : Windows Activator](#microsoft-activation-scripts--windows-activator)
+    - [VSCODE Setup Backup (Theme - Extenstions - Profiles)](#vscode-setup-backup-theme---extenstions---profiles)
+    - [How To Install Fira Code font in VS Code](#how-to-install-fira-code-font-in-vs-code)
+    - [Make Windows + Vs Code Terminal Look Better](#make-windows--vs-code-terminal-look-better)
+    - [Copy the ON-SCREEN code from any YouTube Video, Image](#copy-the-on-screen-code-from-any-youtube-video-image)
+    - [Fliqlo Desktop Clock ScreenSaver](#fliqlo-desktop-clock-screensaver)
+    - [Update All Software in Windows using CMD](#update-all-software-in-windows-using-cmd)
+    - [Create Virtual Windows \[Windows Sandbox\]](#create-virtual-windows-windows-sandbox)
+    - [Extend Your Image Using UnCROP AI](#extend-your-image-using-uncrop-ai)
+- [Google Feature Website Shortcut](#google-feature-website-shortcut)
+        - [Google Docs ( 👉 doc.new )](#google-docs---docnew-)
+        - [Google Sheets ( 👉 sheets.new )](#google-sheets---sheetsnew-)
+        - [Google Slides ( 👉 slides.new )](#google-slides---slidesnew-)
+        - [Google Forms ( 👉 forms.new )](#google-forms---formsnew-)
+        - [Google Keep ( 👉 keep.new )](#google-keep---keepnew-)
+        - [Google Calendar ( 👉 cal.new )](#google-calendar---calnew-)
+        - [Google Meeting ( 👉 meet.new )](#google-meeting---meetnew-)
+- [Windows Related Issue](#windows-related-issue)
+    - [Activate Windows 11 (Free)](#activate-windows-11-free)
+    - [Windows 11 Not Updating Properly](#windows-11-not-updating-properly)
+    - [Check and Repair SSD](#check-and-repair-ssd)
+    - [Windows can't be Installed on drive 0 Partition 1](#windows-cant-be-installed-on-drive-0-partition-1)
+    - [Completely Format HDD / SSD](#completely-format-hdd--ssd)
+    - [Laptop Battery Health Report](#laptop-battery-health-report)
+    - [Laptop Ram Health Check and Repair](#laptop-ram-health-check-and-repair)
+    - [How to Delete a File in Use by Another Program](#how-to-delete-a-file-in-use-by-another-program)
+    - [Run Important Tabs in OneClick in Browser](#run-important-tabs-in-oneclick-in-browser)
+    - [Upgrade Window Powerplan (High Performance Mode)](#upgrade-window-powerplan-high-performance-mode)
+    - [Open Bios in easy way without pressing random Key](#open-bios-in-easy-way-without-pressing-random-key)
+- [Development Problem Solutions](#development-problem-solutions)
+    - [Live server visual studio code not working || Error port 5500](#live-server-visual-studio-code-not-working--error-port-5500)
+    - [How To Run an Existing React App In VSCode](#how-to-run-an-existing-react-app-in-vscode)
+    - [Add images and links in Markdown by dragging and dropping in VSCode](#add-images-and-links-in-markdown-by-dragging-and-dropping-in-vscode)
+    - [React-scripts' is not recognized as an internal or external command](#react-scripts-is-not-recognized-as-an-internal-or-external-command)
+    - [Xaamp My SQL is not running](#xaamp-my-sql-is-not-running)
+    - [#1932- table doesn't exist in engine PhpMyAdmin](#1932--table-doesnt-exist-in-engine-phpmyadmin)
+    - [How to fix unknown at rule @tailwind warning in VS Code](#how-to-fix-unknown-at-rule-tailwind-warning-in-vs-code)
+    - [ERROR 2003 (HY000): Can't connect to MySQL server on 'localhost' (10061) solved](#error-2003-hy000-cant-connect-to-mysql-server-on-localhost-10061-solved)
+    - [How to locate a installed software `.exe` in File Explored](#how-to-locate-a-installed-software-exe-in-file-explored)
+    - [Whatsapp desktop Lagging Issue](#whatsapp-desktop-lagging-issue)
+  - [Vscode Folder Rename Issue](#vscode-folder-rename-issue)
+    - [Where is the password for the cluster? : MongdDB Atlas](#where-is-the-password-for-the-cluster--mongddb-atlas)
+    - [Error while connecting my database through Mongodb compass : MongdDB Atlas](#error-while-connecting-my-database-through-mongodb-compass--mongddb-atlas)
+    - [Error loading webview: Error: Could not register service workers: TypeError: Failed to register a ServiceWorker for scope](#error-loading-webview-error-could-not-register-service-workers-typeerror-failed-to-register-a-serviceworker-for-scope)
+    - [Check Laptop Performance Score](#check-laptop-performance-score)
+    - [Turn off laptop privacy settings : Performance boost](#turn-off-laptop-privacy-settings--performance-boost)
+    - [How to preview a Next.JS app on a mobile device](#how-to-preview-a-nextjs-app-on-a-mobile-device)
 
 <hr>
 
@@ -78,6 +92,24 @@
     - Then install this which disable's Spotify Ad
 ```
 
+#### Install All Necessary Software in Windows (Using Cmd)
+
+> > Resource : **([👉 Paste this command into Powershell (admin): ](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel))**
+
+```code
+iwr -useb https://christitus.com/win | iex
+```
+
+#### Windows 11 Guide & Resources
+
+> A guide on setting up your Windows 11 Desktop with all the essential Applications, Tools, and Games to make your experience with Windows 11 great!
+
+> > Resource : **([👉 Click Here](https://github.com/mikeroyal/Windows-11-Guide))**
+
+```code
+iwr -useb https://christitus.com/win | iex
+```
+
 #### Medium Paid Article For Free
 
 > > Medium Unlock Extension Resource : **([👉Click Here](https://chromewebstore.google.com/detail/medium-unlock/babnnfmbjokkeieobamoifmeapbbfhje))**
@@ -86,8 +118,8 @@
     - Open a paid an article
     - Click the Extension
 ```
-> > Free Medium Extension: **([👉Click Here](https://github.com/fferrin/free-medium))**
 
+> > Free Medium Extension: **([👉Click Here](https://github.com/fferrin/free-medium))**
 
 #### ChatGPT : Desktop Application
 
