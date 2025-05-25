@@ -189,6 +189,8 @@ iwr -useb https://christitus.com/win | iex
 
 > > 💖 Basic Vs Code Tutorial Setup **([👉Click Here ](https://youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl&si=KKLzeW0VAc-u1HF_) )**
 
+> > 🔄️ Setting.json Gist Link **([👉Click Here ](https://gist.github.com/Sumonta056/8b4d8abd55cda6b2badcbefda101941a) )**
+
 - ⬇️ Download The file
 - ➡️ Go to VScode >> Setting >> Profile
 - 👆 Click on Import Profile
